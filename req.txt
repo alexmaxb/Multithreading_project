@@ -1,0 +1,2281 @@
+Requester 139943866668800 thread starting
+Requester 139943866668800 has chosen a file
+Requester 139943866668800 read data and is beginning process of placing it in buffer
+Requester 139943866668800 read data and is beginning process of placing it in buffer
+Requester 139943866668800 read data and is beginning process of placing it in buffer
+Requester 139943866668800 read data and is beginning process of placing it in buffer
+Requester 139943866668800 read data and is beginning process of placing it in buffer
+Requester 139943866668800 read data and is beginning process of placing it in buffer
+Requester 139943866668800 read data and is beginning process of placing it in buffer
+Requester 139943866668800 read data and is beginning process of placing it in buffer
+Requester 139943866668800 read data and is beginning process of placing it in buffer
+Requester 139943866668800 read data and is beginning process of placing it in buffer
+Requester 139943866668800 read data and is beginning process of placing it in buffer
+Requester 139943866668800 read data and is beginning process of placing it in buffer
+Requester 139943866668800 read data and is beginning process of placing it in buffer
+Requester 139943866668800 read data and is beginning process of placing it in buffer
+Requester 139943866668800 read data and is beginning process of placing it in buffer
+Requester 139943866668800 read data and is beginning process of placing it in buffer
+Requester 139943866668800 read data and is beginning process of placing it in buffer
+Requester 139943866668800 read data and is beginning process of placing it in buffer
+Requester 139943866668800 read data and is beginning process of placing it in buffer
+Requester 139943866668800 read data and is beginning process of placing it in buffer
+Requester 139943866668800 read data and is beginning process of placing it in buffer
+Requester 139943875061504 thread starting
+Requester 139943875061504 has chosen a file
+Requester 139943875061504 read data and is beginning process of placing it in buffer
+Requester 139943875061504 read data and is beginning process of placing it in buffer
+Requester 139943875061504 read data and is beginning process of placing it in buffer
+Requester 139943875061504 read data and is beginning process of placing it in buffer
+Requester 139943875061504 read data and is beginning process of placing it in buffer
+Requester 139943875061504 read data and is beginning process of placing it in buffer
+Requester 139943883454208 thread starting
+Requester 139943883454208 has chosen a file
+Requester 139943883454208 read data and is beginning process of placing it in buffer
+Requester 139943891846912 thread starting
+Requester 139943891846912 has chosen a file
+Requester 139943891846912 read data and is beginning process of placing it in buffer
+Requester 139943900239616 thread starting
+Requester 139943900239616 has chosen a file
+Requester 139943900239616 read data and is beginning process of placing it in buffer
+Requester 139943908632320 thread starting
+Requester 139943908632320 has chosen a file
+Requester 139943908632320 read data and is beginning process of placing it in buffer
+Requester 139943942203136 thread starting
+Requester 139943942203136 has chosen a file
+Requester 139943942203136 read data and is beginning process of placing it in buffer
+Requester 139943942203136 read data and is beginning process of placing it in buffer
+Requester 139943933810432 thread starting
+Requester 139943933810432 has chosen a file
+Requester 139943933810432 read data and is beginning process of placing it in buffer
+Requester 139943866668800 read data and is beginning process of placing it in buffer
+Requester 139943883454208 read data and is beginning process of placing it in buffer
+Requester 139943925417728 thread starting
+Requester 139943925417728 has chosen a file
+Requester 139943925417728 read data and is beginning process of placing it in buffer
+Requester 139943917025024 thread starting
+Requester 139943917025024 has chosen a file
+Requester 139943917025024 read data and is beginning process of placing it in buffer
+Requester 139943891846912 read data and is beginning process of placing it in buffer
+Requester 139943900239616 read data and is beginning process of placing it in buffer
+Requester 139943875061504 read data and is beginning process of placing it in buffer
+Requester 139943875061504 read data and is beginning process of placing it in buffer
+Requester 139943875061504 read data and is beginning process of placing it in buffer
+Requester 139943875061504 read data and is beginning process of placing it in buffer
+Requester 139943866668800 reached EOF
+Requester 139943866668800 has chosen a file
+Requester 139943866668800 has chosen a file
+Requester 139943866668800 read data and is beginning process of placing it in buffer
+Requester 139943883454208 read data and is beginning process of placing it in buffer
+Requester 139943891846912 read data and is beginning process of placing it in buffer
+Requester 139943891846912 read data and is beginning process of placing it in buffer
+Requester 139943891846912 read data and is beginning process of placing it in buffer
+Requester 139943900239616 read data and is beginning process of placing it in buffer
+Requester 139943875061504 read data and is beginning process of placing it in buffer
+Requester 139943866668800 read data and is beginning process of placing it in buffer
+Requester 139943883454208 read data and is beginning process of placing it in buffer
+Requester 139943891846912 read data and is beginning process of placing it in buffer
+Requester 139943891846912 read data and is beginning process of placing it in buffer
+Requester 139943942203136 read data and is beginning process of placing it in buffer
+Requester 139943917025024 read data and is beginning process of placing it in buffer
+Requester 139943925417728 read data and is beginning process of placing it in buffer
+Requester 139943900239616 read data and is beginning process of placing it in buffer
+Requester 139943875061504 read data and is beginning process of placing it in buffer
+Requester 139943866668800 read data and is beginning process of placing it in buffer
+Requester 139943883454208 read data and is beginning process of placing it in buffer
+Requester 139943891846912 read data and is beginning process of placing it in buffer
+Requester 139943891846912 read data and is beginning process of placing it in buffer
+Requester 139943942203136 read data and is beginning process of placing it in buffer
+Requester 139943917025024 read data and is beginning process of placing it in buffer
+Requester 139943925417728 read data and is beginning process of placing it in buffer
+Requester 139943900239616 read data and is beginning process of placing it in buffer
+Requester 139943875061504 read data and is beginning process of placing it in buffer
+Requester 139943866668800 reached EOF
+Requester 139943866668800 has chosen a file
+Requester 139943866668800 read data and is beginning process of placing it in buffer
+Requester 139943883454208 read data and is beginning process of placing it in buffer
+Requester 139943891846912 read data and is beginning process of placing it in buffer
+Requester 139943933810432 read data and is beginning process of placing it in buffer
+Requester 139943933810432 read data and is beginning process of placing it in buffer
+Requester 139943900239616 read data and is beginning process of placing it in buffer
+Requester 139943900239616 read data and is beginning process of placing it in buffer
+Requester 139943900239616 read data and is beginning process of placing it in buffer
+Requester 139943875061504 has chosen a file
+Requester 139943875061504 read data and is beginning process of placing it in buffer
+Requester 139943866668800 read data and is beginning process of placing it in buffer
+Requester 139943883454208 read data and is beginning process of placing it in buffer
+Requester 139943891846912 read data and is beginning process of placing it in buffer
+Requester 139943933810432 read data and is beginning process of placing it in buffer
+Requester 139943933810432 read data and is beginning process of placing it in buffer
+Requester 139943925417728 read data and is beginning process of placing it in buffer
+Requester 139943866668800 read data and is beginning process of placing it in buffer
+Requester 139943866668800 read data and is beginning process of placing it in buffer
+Requester 139943883454208 read data and is beginning process of placing it in buffer
+Requester 139943891846912 read data and is beginning process of placing it in buffer
+Requester 139943933810432 read data and is beginning process of placing it in buffer
+Requester 139943942203136 has chosen a file
+Requester 139943942203136 read data and is beginning process of placing it in buffer
+Requester 139943917025024 read data and is beginning process of placing it in buffer
+Requester 139943917025024 read data and is beginning process of placing it in buffer
+Requester 139943866668800 read data and is beginning process of placing it in buffer
+Requester 139943866668800 read data and is beginning process of placing it in buffer
+Requester 139943866668800 reached EOF
+Requester 139943866668800 has chosen a file
+Requester 139943866668800 has chosen a file
+Requester 139943866668800 read data and is beginning process of placing it in buffer
+Requester 139943866668800 read data and is beginning process of placing it in buffer
+Requester 139943883454208 has chosen a file
+Requester 139943883454208 read data and is beginning process of placing it in buffer
+Requester 139943891846912 read data and is beginning process of placing it in buffer
+Requester 139943866668800 reached EOF
+Requester 139943866668800 has chosen a file
+Requester 139943866668800 has chosen a file
+Requester 139943866668800 read data and is beginning process of placing it in buffer
+Requester 139943866668800 read data and is beginning process of placing it in buffer
+Requester 139943866668800 read data and is beginning process of placing it in buffer
+Requester 139943866668800 read data and is beginning process of placing it in buffer
+Requester 139943866668800 read data and is beginning process of placing it in buffer
+Requester 139943933810432 has chosen a file
+Requester 139943933810432 has chosen a file
+Requester 139943933810432 reached EOF
+Thread 139943933810432 exiting
+Thread 139943875061504 exiting
+Thread 139943942203136 exiting
+Thread 139943900239616 exiting
+Thread 139943925417728 exiting
+Thread 139943883454208 exiting
+Thread 139943866668800 exiting
+Thread 139943891846912 exiting
+Thread 139943917025024 exiting
+Thread 139943908632320 exiting
+0240656254720 exiting
+Thread 140240681432832 exiting
+ead 140590126798592 exiting
+Thread 140590110013184 exiting
+Thread 140590068049664 exiting
+Thread 140590084835072 exiting
+Thread 140590118405888 exiting
+Thread 140590135191296 exiting
+Thread 140590101620480 exiting
+ad data and is beginning process of placing it in buffer
+Requester 140075131631360 read data and is beginning process of placing it in buffer
+Requester 140075123238656 read data and is beginning process of placing it in buffer
+Requester 140075114845952 read data and is beginning process of placing it in buffer
+Requester 140075131631360 read data and is beginning process of placing it in buffer
+Requester 140075123238656 reached EOF
+Requester 140075123238656 has chosen a file
+Requester 140075123238656 read data and is beginning process of placing it in buffer
+Requester 140075114845952 read data and is beginning process of placing it in buffer
+Requester 140075131631360 read data and is beginning process of placing it in buffer
+Requester 140075123238656 read data and is beginning process of placing it in buffer
+Requester 140075114845952 read data and is beginning process of placing it in buffer
+Requester 140075131631360 read data and is beginning process of placing it in buffer
+Requester 140075123238656 read data and is beginning process of placing it in buffer
+Requester 140075114845952 reached EOF
+Requester 140075114845952 has chosen a file
+Requester 140075114845952 has chosen a file
+Requester 140075114845952 reached EOF
+Requester 140075114845952 has chosen a file
+Requester 140075114845952 read data and is beginning process of placing it in buffer
+Requester 140075131631360 has chosen a file
+Requester 140075131631360 has chosen a file
+Requester 140075131631360 read data and is beginning process of placing it in buffer
+Requester 140075123238656 read data and is beginning process of placing it in buffer
+Requester 140075114845952 read data and is beginning process of placing it in buffer
+Requester 140075131631360 read data and is beginning process of placing it in buffer
+Requester 140075123238656 read data and is beginning process of placing it in buffer
+Requester 140075114845952 read data and is beginning process of placing it in buffer
+Requester 140075131631360 read data and is beginning process of placing it in buffer
+Requester 140075123238656 read data and is beginning process of placing it in buffer
+Requester 140075114845952 read data and is beginning process of placing it in buffer
+Requester 140075131631360 read data and is beginning process of placing it in buffer
+Requester 140075123238656 read data and is beginning process of placing it in buffer
+Requester 140075114845952 read data and is beginning process of placing it in buffer
+Requester 140075131631360 read data and is beginning process of placing it in buffer
+Requester 140075123238656 read data and is beginning process of placing it in buffer
+Requester 140075114845952 read data and is beginning process of placing it in buffer
+Requester 140075131631360 read data and is beginning process of placing it in buffer
+Requester 140075123238656 reached EOF
+Thread 140075123238656 exiting
+Thread 140075114845952 exiting
+Thread 140075131631360 exiting
+Requester 100800256 thread starting
+Requester 100800256 has chosen a file
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 117585664 thread starting
+Requester 117585664 has chosen a file
+Requester 117585664 read data and is beginning process of placing it in buffer
+Requester 109192960 thread starting
+Requester 109192960 has chosen a file
+Requester 109192960 read data and is beginning process of placing it in buffer
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 117585664 read data and is beginning process of placing it in buffer
+Requester 109192960 read data and is beginning process of placing it in buffer
+Requester 109192960 read data and is beginning process of placing it in buffer
+Requester 117585664 read data and is beginning process of placing it in buffer
+Requester 109192960 read data and is beginning process of placing it in buffer
+Requester 117585664 read data and is beginning process of placing it in buffer
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 109192960 read data and is beginning process of placing it in buffer
+Requester 117585664 read data and is beginning process of placing it in buffer
+Requester 109192960 read data and is beginning process of placing it in buffer
+Requester 109192960 read data and is beginning process of placing it in buffer
+Requester 117585664 read data and is beginning process of placing it in buffer
+Requester 109192960 read data and is beginning process of placing it in buffer
+Requester 100800256 reached EOF
+Requester 100800256 has chosen a file
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 109192960 read data and is beginning process of placing it in buffer
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 117585664 read data and is beginning process of placing it in buffer
+Requester 109192960 read data and is beginning process of placing it in buffer
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 117585664 read data and is beginning process of placing it in buffer
+Requester 109192960 read data and is beginning process of placing it in buffer
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 117585664 read data and is beginning process of placing it in buffer
+Requester 109192960 read data and is beginning process of placing it in buffer
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 117585664 read data and is beginning process of placing it in buffer
+Requester 117585664 read data and is beginning process of placing it in buffer
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 117585664 read data and is beginning process of placing it in buffer
+Requester 109192960 read data and is beginning process of placing it in buffer
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 117585664 read data and is beginning process of placing it in buffer
+Requester 109192960 read data and is beginning process of placing it in buffer
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 117585664 read data and is beginning process of placing it in buffer
+Requester 109192960 read data and is beginning process of placing it in buffer
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 117585664 read data and is beginning process of placing it in buffer
+Requester 109192960 read data and is beginning process of placing it in buffer
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 117585664 read data and is beginning process of placing it in buffer
+Requester 109192960 read data and is beginning process of placing it in buffer
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 109192960 read data and is beginning process of placing it in buffer
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 117585664 read data and is beginning process of placing it in buffer
+Requester 109192960 read data and is beginning process of placing it in buffer
+Requester 117585664 read data and is beginning process of placing it in buffer
+Requester 117585664 read data and is beginning process of placing it in buffer
+Requester 109192960 read data and is beginning process of placing it in buffer
+Requester 109192960 reached EOF
+Requester 109192960 has chosen a file
+Requester 109192960 read data and is beginning process of placing it in buffer
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 109192960 read data and is beginning process of placing it in buffer
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 109192960 read data and is beginning process of placing it in buffer
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 117585664 read data and is beginning process of placing it in buffer
+Requester 117585664 reached EOF
+Requester 117585664 has chosen a file
+Requester 117585664 has chosen a file
+Requester 117585664 read data and is beginning process of placing it in buffer
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 117585664 reached EOF
+Requester 117585664 has chosen a file
+Requester 117585664 read data and is beginning process of placing it in buffer
+Requester 109192960 read data and is beginning process of placing it in buffer
+Requester 100800256 has chosen a file
+Requester 100800256 has chosen a file
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 117585664 read data and is beginning process of placing it in buffer
+Requester 109192960 read data and is beginning process of placing it in buffer
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 117585664 read data and is beginning process of placing it in buffer
+Requester 109192960 read data and is beginning process of placing it in buffer
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 117585664 read data and is beginning process of placing it in buffer
+Requester 109192960 read data and is beginning process of placing it in buffer
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 117585664 read data and is beginning process of placing it in buffer
+Requester 109192960 read data and is beginning process of placing it in buffer
+Requester 100800256 read data and is beginning process of placing it in buffer
+Requester 117585664 read data and is beginning process of placing it in buffer
+Requester 109192960 read data and is beginning process of placing it in buffer
+Requester 100800256 reached EOF
+Thread 100800256 exiting
+Thread 117585664 exiting
+Thread 109192960 exiting
+Requester 140305087457024 thread starting
+Requester 140305087457024 has chosen a file
+Requester 140305079064320 thread starting
+Requester 140305079064320 has chosen a file
+Requester 140305087457024 read data and is beginning process of placing it in buffer
+Requester 140305087457024 read data and is beginning process of placing it in buffer
+Requester 140305087457024 read data and is beginning process of placing it in buffer
+Requester 140305087457024 read data and is beginning process of placing it in buffer
+Requester 140305087457024 read data and is beginning process of placing it in buffer
+Requester 140305087457024 read data and is beginning process of placing it in buffer
+Requester 140305087457024 read data and is beginning process of placing it in buffer
+Requester 140305087457024 read data and is beginning process of placing it in buffer
+Requester 140305087457024 read data and is beginning process of placing it in buffer
+Requester 140305087457024 read data and is beginning process of placing it in buffer
+Requester 140305087457024 read data and is beginning process of placing it in buffer
+Requester 140305087457024 read data and is beginning process of placing it in buffer
+Requester 140305087457024 read data and is beginning process of placing it in buffer
+Requester 140305087457024 read data and is beginning process of placing it in buffer
+Requester 140305087457024 read data and is beginning process of placing it in buffer
+Requester 140305087457024 read data and is beginning process of placing it in buffer
+Requester 140305087457024 read data and is beginning process of placing it in buffer
+Requester 140305087457024 read data and is beginning process of placing it in buffer
+Requester 140305087457024 read data and is beginning process of placing it in buffer
+Requester 140305087457024 read data and is beginning process of placing it in buffer
+Requester 140305087457024 read data and is beginning process of placing it in buffer
+Requester 140305070671616 thread starting
+Requester 140305070671616 has chosen a file
+Requester 140305079064320 read data and is beginning process of placing it in buffer
+Requester 140305070671616 read data and is beginning process of placing it in buffer
+Requester 140305070671616 read data and is beginning process of placing it in buffer
+Requester 140305070671616 read data and is beginning process of placing it in buffer
+Requester 140305070671616 read data and is beginning process of placing it in buffer
+Requester 140305070671616 read data and is beginning process of placing it in buffer
+Requester 140305070671616 read data and is beginning process of placing it in buffer
+Requester 140305070671616 read data and is beginning process of placing it in buffer
+Requester 140305070671616 read data and is beginning process of placing it in buffer
+Requester 140305079064320 read data and is beginning process of placing it in buffer
+Requester 140305070671616 read data and is beginning process of placing it in buffer
+Requester 140305087457024 read data and is beginning process of placing it in buffer
+Requester 140305079064320 read data and is beginning process of placing it in buffer
+Requester 140305070671616 read data and is beginning process of placing it in buffer
+Requester 140305087457024 read data and is beginning process of placing it in buffer
+Requester 140305079064320 read data and is beginning process of placing it in buffer
+Requester 140305079064320 read data and is beginning process of placing it in buffer
+Requester 140305079064320 read data and is beginning process of placing it in buffer
+Requester 140305079064320 read data and is beginning process of placing it in buffer
+Requester 140305079064320 read data and is beginning process of placing it in buffer
+Requester 140305079064320 read data and is beginning process of placing it in buffer
+Requester 140305079064320 read data and is beginning process of placing it in buffer
+Requester 140305079064320 read data and is beginning process of placing it in buffer
+Requester 140305079064320 read data and is beginning process of placing it in buffer
+Requester 140305070671616 read data and is beginning process of placing it in buffer
+Requester 140305087457024 reached EOF
+Requester 140305087457024 has chosen a file
+Requester 140305087457024 read data and is beginning process of placing it in buffer
+Requester 140305079064320 read data and is beginning process of placing it in buffer
+Requester 140305070671616 read data and is beginning process of placing it in buffer
+Requester 140305087457024 read data and is beginning process of placing it in buffer
+Requester 140305079064320 read data and is beginning process of placing it in buffer
+Requester 140305070671616 read data and is beginning process of placing it in buffer
+Requester 140305087457024 read data and is beginning process of placing it in buffer
+Requester 140305079064320 read data and is beginning process of placing it in buffer
+Requester 140305070671616 read data and is beginning process of placing it in buffer
+Requester 140305087457024 read data and is beginning process of placing it in buffer
+Requester 140305079064320 read data and is beginning process of placing it in buffer
+Requester 140305070671616 read data and is beginning process of placing it in buffer
+Requester 140305087457024 read data and is beginning process of placing it in buffer
+Requester 140305079064320 read data and is beginning process of placing it in buffer
+Requester 140305070671616 read data and is beginning process of placing it in buffer
+Requester 140305087457024 read data and is beginning process of placing it in buffer
+Requester 140305079064320 read data and is beginning process of placing it in buffer
+Requester 140305070671616 read data and is beginning process of placing it in buffer
+Requester 140305087457024 read data and is beginning process of placing it in buffer
+Requester 140305079064320 read data and is beginning process of placing it in buffer
+Requester 140305070671616 read data and is beginning process of placing it in buffer
+Requester 140305079064320 read data and is beginning process of placing it in buffer
+Requester 140305079064320 reached EOF
+Requester 140305079064320 has chosen a file
+Requester 140305079064320 read data and is beginning process of placing it in buffer
+Requester 140305070671616 read data and is beginning process of placing it in buffer
+Requester 140305079064320 read data and is beginning process of placing it in buffer
+Requester 140305087457024 read data and is beginning process of placing it in buffer
+Requester 140305070671616 read data and is beginning process of placing it in buffer
+Requester 140305079064320 read data and is beginning process of placing it in buffer
+Requester 140305087457024 read data and is beginning process of placing it in buffer
+Requester 140305070671616 reached EOF
+Requester 140305070671616 has chosen a file
+Requester 140305070671616 has chosen a file
+Requester 140305070671616 read data and is beginning process of placing it in buffer
+Requester 140305079064320 read data and is beginning process of placing it in buffer
+Requester 140305087457024 read data and is beginning process of placing it in buffer
+Requester 140305070671616 read data and is beginning process of placing it in buffer
+Requester 140305087457024 read data and is beginning process of placing it in buffer
+Requester 140305087457024 read data and is beginning process of placing it in buffer
+Requester 140305070671616 read data and is beginning process of placing it in buffer
+Requester 140305087457024 read data and is beginning process of placing it in buffer
+Requester 140305079064320 read data and is beginning process of placing it in buffer
+Requester 140305070671616 read data and is beginning process of placing it in buffer
+Requester 140305087457024 read data and is beginning process of placing it in buffer
+Requester 140305079064320 read data and is beginning process of placing it in buffer
+Requester 140305070671616 read data and is beginning process of placing it in buffer
+Requester 140305087457024 read data and is beginning process of placing it in buffer
+Requester 140305079064320 read data and is beginning process of placing it in buffer
+Requester 140305070671616 reached EOF
+Requester 140305070671616 has chosen a file
+Requester 140305070671616 read data and is beginning process of placing it in buffer
+Requester 140305087457024 has chosen a file
+Requester 140305087457024 has chosen a file
+Requester 140305087457024 read data and is beginning process of placing it in buffer
+Requester 140305079064320 read data and is beginning process of placing it in buffer
+Requester 140305070671616 read data and is beginning process of placing it in buffer
+Requester 140305087457024 read data and is beginning process of placing it in buffer
+Requester 140305079064320 read data and is beginning process of placing it in buffer
+Requester 140305070671616 read data and is beginning process of placing it in buffer
+Requester 140305087457024 read data and is beginning process of placing it in buffer
+Requester 140305079064320 read data and is beginning process of placing it in buffer
+Requester 140305070671616 read data and is beginning process of placing it in buffer
+Requester 140305087457024 read data and is beginning process of placing it in buffer
+Requester 140305079064320 read data and is beginning process of placing it in buffer
+Requester 140305070671616 read data and is beginning process of placing it in buffer
+Requester 140305087457024 reached EOF
+Thread 140305087457024 exiting
+Thread 140305079064320 exiting
+Thread 140305070671616 exiting
+Requester 139838234384128 thread starting
+Requester 139838234384128 has chosen a file
+Requester 139838234384128 read data and is beginning process of placing it in buffer
+Requester 139838225991424 thread starting
+Requester 139838225991424 has chosen a file
+Requester 139838225991424 read data and is beginning process of placing it in buffer
+Requester 139838083380992 thread starting
+Requester 139838234384128 read data and is beginning process of placing it in buffer
+Requester 139838234384128 read data and is beginning process of placing it in buffer
+Requester 139838234384128 read data and is beginning process of placing it in buffer
+Requester 139838234384128 read data and is beginning process of placing it in buffer
+Requester 139838225991424 read data and is beginning process of placing it in buffer
+Requester 139838225991424 read data and is beginning process of placing it in buffer
+Requester 139838225991424 read data and is beginning process of placing it in buffer
+Requester 139838225991424 read data and is beginning process of placing it in buffer
+Requester 139838083380992 has chosen a file
+Requester 139838234384128 read data and is beginning process of placing it in buffer
+Requester 139838234384128 read data and is beginning process of placing it in buffer
+Requester 139838234384128 read data and is beginning process of placing it in buffer
+Requester 139838234384128 read data and is beginning process of placing it in buffer
+Requester 139838225991424 read data and is beginning process of placing it in buffer
+Requester 139838225991424 read data and is beginning process of placing it in buffer
+Requester 139838225991424 read data and is beginning process of placing it in buffer
+Requester 139838225991424 read data and is beginning process of placing it in buffer
+Requester 139838234384128 read data and is beginning process of placing it in buffer
+Requester 139838234384128 read data and is beginning process of placing it in buffer
+Requester 139838234384128 read data and is beginning process of placing it in buffer
+Requester 139838234384128 read data and is beginning process of placing it in buffer
+Requester 139838225991424 read data and is beginning process of placing it in buffer
+Requester 139838083380992 read data and is beginning process of placing it in buffer
+Requester 139838234384128 read data and is beginning process of placing it in buffer
+Requester 139838225991424 read data and is beginning process of placing it in buffer
+Requester 139838083380992 read data and is beginning process of placing it in buffer
+Requester 139838234384128 read data and is beginning process of placing it in buffer
+Requester 139838225991424 read data and is beginning process of placing it in buffer
+Requester 139838083380992 read data and is beginning process of placing it in buffer
+Requester 139838234384128 read data and is beginning process of placing it in buffer
+Requester 139838225991424 read data and is beginning process of placing it in buffer
+Requester 139838083380992 read data and is beginning process of placing it in buffer
+Requester 139838234384128 read data and is beginning process of placing it in buffer
+Requester 139838225991424 read data and is beginning process of placing it in buffer
+Requester 139838083380992 read data and is beginning process of placing it in buffer
+Requester 139838083380992 read data and is beginning process of placing it in buffer
+Requester 139838225991424 read data and is beginning process of placing it in buffer
+Requester 139838234384128 read data and is beginning process of placing it in buffer
+Requester 139838234384128 read data and is beginning process of placing it in buffer
+Requester 139838234384128 read data and is beginning process of placing it in buffer
+Requester 139838234384128 read data and is beginning process of placing it in buffer
+Requester 139838234384128 read data and is beginning process of placing it in buffer
+Requester 139838225991424 read data and is beginning process of placing it in buffer
+Requester 139838225991424 read data and is beginning process of placing it in buffer
+Requester 139838225991424 read data and is beginning process of placing it in buffer
+Requester 139838225991424 read data and is beginning process of placing it in buffer
+Requester 139838234384128 read data and is beginning process of placing it in buffer
+Requester 139838225991424 read data and is beginning process of placing it in buffer
+Requester 139838083380992 read data and is beginning process of placing it in buffer
+Requester 139838234384128 reached EOF
+Requester 139838234384128 has chosen a file
+Requester 139838234384128 read data and is beginning process of placing it in buffer
+Requester 139838225991424 reached EOF
+Requester 139838225991424 has chosen a file
+Requester 139838225991424 has chosen a file
+Requester 139838225991424 read data and is beginning process of placing it in buffer
+Requester 139838225991424 read data and is beginning process of placing it in buffer
+Requester 139838234384128 read data and is beginning process of placing it in buffer
+Requester 139838225991424 read data and is beginning process of placing it in buffer
+Requester 139838083380992 read data and is beginning process of placing it in buffer
+Requester 139838234384128 read data and is beginning process of placing it in buffer
+Requester 139838234384128 read data and is beginning process of placing it in buffer
+Requester 139838083380992 read data and is beginning process of placing it in buffer
+Requester 139838234384128 read data and is beginning process of placing it in buffer
+Requester 139838225991424 read data and is beginning process of placing it in buffer
+Requester 139838083380992 read data and is beginning process of placing it in buffer
+Requester 139838234384128 read data and is beginning process of placing it in buffer
+Requester 139838225991424 read data and is beginning process of placing it in buffer
+Requester 139838083380992 read data and is beginning process of placing it in buffer
+Requester 139838234384128 read data and is beginning process of placing it in buffer
+Requester 139838225991424 read data and is beginning process of placing it in buffer
+Requester 139838083380992 read data and is beginning process of placing it in buffer
+Requester 139838234384128 read data and is beginning process of placing it in buffer
+Requester 139838225991424 read data and is beginning process of placing it in buffer
+Requester 139838083380992 read data and is beginning process of placing it in buffer
+Requester 139838234384128 read data and is beginning process of placing it in buffer
+Requester 139838225991424 reached EOF
+Requester 139838225991424 has chosen a file
+Requester 139838225991424 read data and is beginning process of placing it in buffer
+Requester 139838083380992 has chosen a file
+Requester 139838083380992 has chosen a file
+Requester 139838083380992 read data and is beginning process of placing it in buffer
+Requester 139838234384128 read data and is beginning process of placing it in buffer
+Requester 139838225991424 read data and is beginning process of placing it in buffer
+Requester 139838225991424 read data and is beginning process of placing it in buffer
+Requester 139838234384128 read data and is beginning process of placing it in buffer
+Requester 139838225991424 read data and is beginning process of placing it in buffer
+Requester 139838083380992 read data and is beginning process of placing it in buffer
+Requester 139838234384128 read data and is beginning process of placing it in buffer
+Requester 139838225991424 read data and is beginning process of placing it in buffer
+Requester 139838083380992 read data and is beginning process of placing it in buffer
+Requester 139838234384128 reached EOF
+Thread 139838234384128 exiting
+Thread 139838225991424 exiting
+Thread 139838083380992 exiting
+Requester 139782943278848 thread starting
+Requester 139782943278848 has chosen a file
+Requester 139782943278848 read data and is beginning process of placing it in buffer
+Requester 139782943278848 read data and is beginning process of placing it in buffer
+Requester 139782943278848 read data and is beginning process of placing it in buffer
+Requester 139782943278848 read data and is beginning process of placing it in buffer
+Requester 139782943278848 read data and is beginning process of placing it in buffer
+Requester 139782943278848 read data and is beginning process of placing it in buffer
+Requester 139782943278848 read data and is beginning process of placing it in buffer
+Requester 139782943278848 read data and is beginning process of placing it in buffer
+Requester 139782943278848 read data and is beginning process of placing it in buffer
+Requester 139782943278848 read data and is beginning process of placing it in buffer
+Requester 139782943278848 read data and is beginning process of placing it in buffer
+Requester 139782943278848 read data and is beginning process of placing it in buffer
+Requester 139782943278848 read data and is beginning process of placing it in buffer
+Requester 139782934886144 thread starting
+Requester 139782934886144 has chosen a file
+Requester 139782926493440 thread starting
+Requester 139782926493440 has chosen a file
+Requester 139782943278848 read data and is beginning process of placing it in buffer
+Requester 139782943278848 read data and is beginning process of placing it in buffer
+Requester 139782943278848 read data and is beginning process of placing it in buffer
+Requester 139782943278848 read data and is beginning process of placing it in buffer
+Requester 139782943278848 read data and is beginning process of placing it in buffer
+Requester 139782943278848 read data and is beginning process of placing it in buffer
+Requester 139782943278848 read data and is beginning process of placing it in buffer
+Requester 139782943278848 read data and is beginning process of placing it in buffer
+Requester 139782934886144 read data and is beginning process of placing it in buffer
+Requester 139782926493440 read data and is beginning process of placing it in buffer
+Requester 139782943278848 read data and is beginning process of placing it in buffer
+Requester 139782934886144 read data and is beginning process of placing it in buffer
+Requester 139782926493440 read data and is beginning process of placing it in buffer
+Requester 139782943278848 read data and is beginning process of placing it in buffer
+Requester 139782934886144 read data and is beginning process of placing it in buffer
+Requester 139782943278848 reached EOF
+Requester 139782943278848 has chosen a file
+Requester 139782943278848 read data and is beginning process of placing it in buffer
+Requester 139782943278848 read data and is beginning process of placing it in buffer
+Requester 139782934886144 read data and is beginning process of placing it in buffer
+Requester 139782943278848 read data and is beginning process of placing it in buffer
+Requester 139782934886144 read data and is beginning process of placing it in buffer
+Requester 139782926493440 read data and is beginning process of placing it in buffer
+Requester 139782943278848 read data and is beginning process of placing it in buffer
+Requester 139782934886144 read data and is beginning process of placing it in buffer
+Requester 139782926493440 read data and is beginning process of placing it in buffer
+Requester 139782943278848 read data and is beginning process of placing it in buffer
+Requester 139782934886144 read data and is beginning process of placing it in buffer
+Requester 139782926493440 read data and is beginning process of placing it in buffer
+Requester 139782943278848 read data and is beginning process of placing it in buffer
+Requester 139782934886144 read data and is beginning process of placing it in buffer
+Requester 139782926493440 read data and is beginning process of placing it in buffer
+Requester 139782943278848 read data and is beginning process of placing it in buffer
+Requester 139782934886144 read data and is beginning process of placing it in buffer
+Requester 139782926493440 read data and is beginning process of placing it in buffer
+Requester 139782943278848 read data and is beginning process of placing it in buffer
+Requester 139782934886144 read data and is beginning process of placing it in buffer
+Requester 139782926493440 read data and is beginning process of placing it in buffer
+Requester 139782943278848 read data and is beginning process of placing it in buffer
+Requester 139782934886144 read data and is beginning process of placing it in buffer
+Requester 139782926493440 read data and is beginning process of placing it in buffer
+Requester 139782943278848 read data and is beginning process of placing it in buffer
+Requester 139782934886144 read data and is beginning process of placing it in buffer
+Requester 139782926493440 read data and is beginning process of placing it in buffer
+Requester 139782943278848 read data and is beginning process of placing it in buffer
+Requester 139782934886144 read data and is beginning process of placing it in buffer
+Requester 139782926493440 read data and is beginning process of placing it in buffer
+Requester 139782943278848 read data and is beginning process of placing it in buffer
+Requester 139782934886144 read data and is beginning process of placing it in buffer
+Requester 139782926493440 read data and is beginning process of placing it in buffer
+Requester 139782943278848 read data and is beginning process of placing it in buffer
+Requester 139782934886144 read data and is beginning process of placing it in buffer
+Requester 139782926493440 read data and is beginning process of placing it in buffer
+Requester 139782943278848 read data and is beginning process of placing it in buffer
+Requester 139782934886144 read data and is beginning process of placing it in buffer
+Requester 139782926493440 read data and is beginning process of placing it in buffer
+Requester 139782943278848 read data and is beginning process of placing it in buffer
+Requester 139782934886144 read data and is beginning process of placing it in buffer
+Requester 139782926493440 read data and is beginning process of placing it in buffer
+Requester 139782943278848 read data and is beginning process of placing it in buffer
+Requester 139782934886144 read data and is beginning process of placing it in buffer
+Requester 139782926493440 read data and is beginning process of placing it in buffer
+Requester 139782943278848 read data and is beginning process of placing it in buffer
+Requester 139782934886144 read data and is beginning process of placing it in buffer
+Requester 139782926493440 read data and is beginning process of placing it in buffer
+Requester 139782943278848 read data and is beginning process of placing it in buffer
+Requester 139782934886144 read data and is beginning process of placing it in buffer
+Requester 139782926493440 read data and is beginning process of placing it in buffer
+Requester 139782943278848 read data and is beginning process of placing it in buffer
+Requester 139782934886144 reached EOF
+Requester 139782934886144 has chosen a file
+Requester 139782934886144 has chosen a file
+Requester 139782934886144 read data and is beginning process of placing it in buffer
+Requester 139782926493440 read data and is beginning process of placing it in buffer
+Requester 139782943278848 read data and is beginning process of placing it in buffer
+Requester 139782934886144 reached EOF
+Requester 139782934886144 has chosen a file
+Requester 139782934886144 reached EOF
+Thread 139782934886144 exiting
+Thread 139782926493440 exiting
+Thread 139782943278848 exiting
+Requester 140426614531840 thread starting
+Requester 140426614531840 has chosen a file
+Requester 140426614531840 read data and is beginning process of placing it in buffer
+Requester 140426614531840 read data and is beginning process of placing it in buffer
+Requester 140426614531840 read data and is beginning process of placing it in buffer
+Requester 140426614531840 read data and is beginning process of placing it in buffer
+Requester 140426614531840 read data and is beginning process of placing it in buffer
+Requester 140426614531840 read data and is beginning process of placing it in buffer
+Requester 140426614531840 read data and is beginning process of placing it in buffer
+Requester 140426614531840 read data and is beginning process of placing it in buffer
+Requester 140426614531840 read data and is beginning process of placing it in buffer
+Requester 140426614531840 read data and is beginning process of placing it in buffer
+Requester 140426614531840 read data and is beginning process of placing it in buffer
+Requester 140426614531840 read data and is beginning process of placing it in buffer
+Requester 140426614531840 read data and is beginning process of placing it in buffer
+Requester 140426614531840 read data and is beginning process of placing it in buffer
+Requester 140426614531840 read data and is beginning process of placing it in buffer
+Requester 140426614531840 read data and is beginning process of placing it in buffer
+Requester 140426614531840 read data and is beginning process of placing it in buffer
+Requester 140426614531840 read data and is beginning process of placing it in buffer
+Requester 140426614531840 read data and is beginning process of placing it in buffer
+Requester 140426614531840 read data and is beginning process of placing it in buffer
+Requester 140426614531840 read data and is beginning process of placing it in buffer
+Requester 140426614531840 read data and is beginning process of placing it in buffer
+Requester 140426614531840 read data and is beginning process of placing it in buffer
+Requester 140426606139136 thread starting
+Requester 140426606139136 has chosen a file
+Requester 140426597746432 thread starting
+Requester 140426597746432 has chosen a file
+Requester 140426597746432 read data and is beginning process of placing it in buffer
+Requester 140426614531840 reached EOF
+Requester 140426614531840 has chosen a file
+Requester 140426614531840 read data and is beginning process of placing it in buffer
+Requester 140426606139136 read data and is beginning process of placing it in buffer
+Requester 140426597746432 read data and is beginning process of placing it in buffer
+Requester 140426614531840 read data and is beginning process of placing it in buffer
+Requester 140426606139136 read data and is beginning process of placing it in buffer
+Requester 140426597746432 read data and is beginning process of placing it in buffer
+Requester 140426614531840 read data and is beginning process of placing it in buffer
+Requester 140426606139136 read data and is beginning process of placing it in buffer
+Requester 140426597746432 read data and is beginning process of placing it in buffer
+Requester 140426614531840 read data and is beginning process of placing it in buffer
+Requester 140426606139136 read data and is beginning process of placing it in buffer
+Requester 140426597746432 read data and is beginning process of placing it in buffer
+Requester 140426614531840 read data and is beginning process of placing it in buffer
+Requester 140426606139136 read data and is beginning process of placing it in buffer
+Requester 140426597746432 read data and is beginning process of placing it in buffer
+Requester 140426614531840 read data and is beginning process of placing it in buffer
+Requester 140426606139136 read data and is beginning process of placing it in buffer
+Requester 140426597746432 read data and is beginning process of placing it in buffer
+Requester 140426614531840 read data and is beginning process of placing it in buffer
+Requester 140426606139136 read data and is beginning process of placing it in buffer
+Requester 140426597746432 read data and is beginning process of placing it in buffer
+Requester 140426614531840 read data and is beginning process of placing it in buffer
+Requester 140426606139136 read data and is beginning process of placing it in buffer
+Requester 140426597746432 read data and is beginning process of placing it in buffer
+Requester 140426614531840 read data and is beginning process of placing it in buffer
+Requester 140426606139136 read data and is beginning process of placing it in buffer
+Requester 140426597746432 read data and is beginning process of placing it in buffer
+Requester 140426614531840 read data and is beginning process of placing it in buffer
+Requester 140426606139136 read data and is beginning process of placing it in buffer
+Requester 140426597746432 read data and is beginning process of placing it in buffer
+Requester 140426614531840 read data and is beginning process of placing it in buffer
+Requester 140426606139136 read data and is beginning process of placing it in buffer
+Requester 140426597746432 read data and is beginning process of placing it in buffer
+Requester 140426614531840 read data and is beginning process of placing it in buffer
+Requester 140426606139136 read data and is beginning process of placing it in buffer
+Requester 140426597746432 read data and is beginning process of placing it in buffer
+Requester 140426614531840 read data and is beginning process of placing it in buffer
+Requester 140426606139136 read data and is beginning process of placing it in buffer
+Requester 140426597746432 read data and is beginning process of placing it in buffer
+Requester 140426614531840 read data and is beginning process of placing it in buffer
+Requester 140426606139136 read data and is beginning process of placing it in buffer
+Requester 140426597746432 read data and is beginning process of placing it in buffer
+Requester 140426614531840 read data and is beginning process of placing it in buffer
+Requester 140426606139136 read data and is beginning process of placing it in buffer
+Requester 140426597746432 read data and is beginning process of placing it in buffer
+Requester 140426614531840 read data and is beginning process of placing it in buffer
+Requester 140426606139136 read data and is beginning process of placing it in buffer
+Requester 140426597746432 read data and is beginning process of placing it in buffer
+Requester 140426606139136 read data and is beginning process of placing it in buffer
+Requester 140426606139136 read data and is beginning process of placing it in buffer
+Requester 140426597746432 read data and is beginning process of placing it in buffer
+Requester 140426606139136 read data and is beginning process of placing it in buffer
+Requester 140426614531840 read data and is beginning process of placing it in buffer
+Requester 140426597746432 read data and is beginning process of placing it in buffer
+Requester 140426606139136 read data and is beginning process of placing it in buffer
+Requester 140426614531840 read data and is beginning process of placing it in buffer
+Requester 140426597746432 read data and is beginning process of placing it in buffer
+Requester 140426606139136 reached EOF
+Requester 140426606139136 has chosen a file
+Requester 140426606139136 has chosen a file
+Requester 140426606139136 reached EOF
+Requester 140426606139136 has chosen a file
+Requester 140426606139136 read data and is beginning process of placing it in buffer
+Requester 140426614531840 read data and is beginning process of placing it in buffer
+Requester 140426597746432 has chosen a file
+Requester 140426597746432 has chosen a file
+Requester 140426597746432 reached EOF
+Thread 140426597746432 exiting
+Thread 140426606139136 exiting
+Thread 140426614531840 exiting
+Requester 139887113135872 thread starting
+Requester 139887113135872 has chosen a file
+Requester 139887113135872 read data and is beginning process of placing it in buffer
+Requester 139887113135872 read data and is beginning process of placing it in buffer
+Requester 139887113135872 read data and is beginning process of placing it in buffer
+Requester 139887113135872 read data and is beginning process of placing it in buffer
+Requester 139887113135872 read data and is beginning process of placing it in buffer
+Requester 139887113135872 read data and is beginning process of placing it in buffer
+Requester 139887113135872 read data and is beginning process of placing it in buffer
+Requester 139887113135872 read data and is beginning process of placing it in buffer
+Requester 139887113135872 read data and is beginning process of placing it in buffer
+Requester 139887113135872 read data and is beginning process of placing it in buffer
+Requester 139887113135872 read data and is beginning process of placing it in buffer
+Requester 139887113135872 read data and is beginning process of placing it in buffer
+Requester 139887113135872 read data and is beginning process of placing it in buffer
+Requester 139887113135872 read data and is beginning process of placing it in buffer
+Requester 139887113135872 read data and is beginning process of placing it in buffer
+Requester 139887113135872 read data and is beginning process of placing it in buffer
+Requester 139887113135872 read data and is beginning process of placing it in buffer
+Requester 139887113135872 read data and is beginning process of placing it in buffer
+Requester 139887113135872 read data and is beginning process of placing it in buffer
+Requester 139887113135872 read data and is beginning process of placing it in buffer
+Requester 139887113135872 read data and is beginning process of placing it in buffer
+Requester 139887113135872 read data and is beginning process of placing it in buffer
+Requester 139887104743168 thread starting
+Requester 139887104743168 has chosen a file
+Requester 139887104743168 read data and is beginning process of placing it in buffer
+Requester 139887113135872 read data and is beginning process of placing it in buffer
+Requester 139887096350464 thread starting
+Requester 139887096350464 has chosen a file
+Requester 139887096350464 read data and is beginning process of placing it in buffer
+Requester 139887104743168 read data and is beginning process of placing it in buffer
+Requester 139887113135872 reached EOF
+Requester 139887113135872 has chosen a file
+Requester 139887113135872 read data and is beginning process of placing it in buffer
+Requester 139887096350464 read data and is beginning process of placing it in buffer
+Requester 139887104743168 read data and is beginning process of placing it in buffer
+Requester 139887113135872 read data and is beginning process of placing it in buffer
+Requester 139887096350464 read data and is beginning process of placing it in buffer
+Requester 139887113135872 read data and is beginning process of placing it in buffer
+Requester 139887113135872 read data and is beginning process of placing it in buffer
+Requester 139887096350464 read data and is beginning process of placing it in buffer
+Requester 139887104743168 read data and is beginning process of placing it in buffer
+Requester 139887104743168 read data and is beginning process of placing it in buffer
+Requester 139887096350464 read data and is beginning process of placing it in buffer
+Requester 139887104743168 read data and is beginning process of placing it in buffer
+Requester 139887096350464 read data and is beginning process of placing it in buffer
+Requester 139887104743168 read data and is beginning process of placing it in buffer
+Requester 139887113135872 read data and is beginning process of placing it in buffer
+Requester 139887096350464 read data and is beginning process of placing it in buffer
+Requester 139887104743168 read data and is beginning process of placing it in buffer
+Requester 139887113135872 read data and is beginning process of placing it in buffer
+Requester 139887096350464 read data and is beginning process of placing it in buffer
+Requester 139887104743168 read data and is beginning process of placing it in buffer
+Requester 139887113135872 read data and is beginning process of placing it in buffer
+Requester 139887096350464 read data and is beginning process of placing it in buffer
+Requester 139887104743168 read data and is beginning process of placing it in buffer
+Requester 139887113135872 read data and is beginning process of placing it in buffer
+Requester 139887096350464 read data and is beginning process of placing it in buffer
+Requester 139887104743168 read data and is beginning process of placing it in buffer
+Requester 139887113135872 read data and is beginning process of placing it in buffer
+Requester 139887096350464 read data and is beginning process of placing it in buffer
+Requester 139887104743168 read data and is beginning process of placing it in buffer
+Requester 139887113135872 read data and is beginning process of placing it in buffer
+Requester 139887096350464 read data and is beginning process of placing it in buffer
+Requester 139887104743168 read data and is beginning process of placing it in buffer
+Requester 139887113135872 read data and is beginning process of placing it in buffer
+Requester 139887096350464 read data and is beginning process of placing it in buffer
+Requester 139887104743168 read data and is beginning process of placing it in buffer
+Requester 139887113135872 read data and is beginning process of placing it in buffer
+Requester 139887104743168 read data and is beginning process of placing it in buffer
+Requester 139887104743168 read data and is beginning process of placing it in buffer
+Requester 139887113135872 read data and is beginning process of placing it in buffer
+Requester 139887104743168 read data and is beginning process of placing it in buffer
+Requester 139887096350464 read data and is beginning process of placing it in buffer
+Requester 139887113135872 read data and is beginning process of placing it in buffer
+Requester 139887104743168 read data and is beginning process of placing it in buffer
+Requester 139887096350464 read data and is beginning process of placing it in buffer
+Requester 139887113135872 read data and is beginning process of placing it in buffer
+Requester 139887104743168 read data and is beginning process of placing it in buffer
+Requester 139887096350464 read data and is beginning process of placing it in buffer
+Requester 139887113135872 read data and is beginning process of placing it in buffer
+Requester 139887104743168 read data and is beginning process of placing it in buffer
+Requester 139887096350464 read data and is beginning process of placing it in buffer
+Requester 139887113135872 read data and is beginning process of placing it in buffer
+Requester 139887104743168 reached EOF
+Requester 139887104743168 has chosen a file
+Requester 139887104743168 has chosen a file
+Requester 139887104743168 read data and is beginning process of placing it in buffer
+Requester 139887096350464 read data and is beginning process of placing it in buffer
+Requester 139887113135872 read data and is beginning process of placing it in buffer
+Requester 139887104743168 read data and is beginning process of placing it in buffer
+Requester 139887096350464 reached EOF
+Requester 139887096350464 has chosen a file
+Requester 139887096350464 read data and is beginning process of placing it in buffer
+Requester 139887113135872 read data and is beginning process of placing it in buffer
+Requester 139887104743168 has chosen a file
+Requester 139887104743168 has chosen a file
+Requester 139887104743168 reached EOF
+Thread 139887104743168 exiting
+Thread 139887096350464 exiting
+Thread 139887113135872 exiting
+Requester 140463259309824 thread starting
+Requester 140463259309824 has chosen a file
+Requester 140463259309824 read data and is beginning process of placing it in buffer
+Requester 140463259309824 read data and is beginning process of placing it in buffer
+Requester 140463259309824 read data and is beginning process of placing it in buffer
+Requester 140463259309824 read data and is beginning process of placing it in buffer
+Requester 140463259309824 read data and is beginning process of placing it in buffer
+Requester 140463259309824 read data and is beginning process of placing it in buffer
+Requester 140463259309824 read data and is beginning process of placing it in buffer
+Requester 140463259309824 read data and is beginning process of placing it in buffer
+Requester 140463259309824 read data and is beginning process of placing it in buffer
+Requester 140463259309824 read data and is beginning process of placing it in buffer
+Requester 140463259309824 read data and is beginning process of placing it in buffer
+Requester 140463259309824 read data and is beginning process of placing it in buffer
+Requester 140463259309824 read data and is beginning process of placing it in buffer
+Requester 140463259309824 read data and is beginning process of placing it in buffer
+Requester 140463259309824 read data and is beginning process of placing it in buffer
+Requester 140463259309824 read data and is beginning process of placing it in buffer
+Requester 140463259309824 read data and is beginning process of placing it in buffer
+Requester 140463259309824 read data and is beginning process of placing it in buffer
+Requester 140463259309824 read data and is beginning process of placing it in buffer
+Requester 140463259309824 read data and is beginning process of placing it in buffer
+Requester 140463259309824 read data and is beginning process of placing it in buffer
+Requester 140463259309824 read data and is beginning process of placing it in buffer
+Requester 140463267702528 thread starting
+Requester 140463267702528 has chosen a file
+Requester 140463267702528 read data and is beginning process of placing it in buffer
+Requester 140463276095232 thread starting
+Requester 140463276095232 has chosen a file
+Requester 140463276095232 read data and is beginning process of placing it in buffer
+Requester 140463276095232 read data and is beginning process of placing it in buffer
+Requester 140463276095232 read data and is beginning process of placing it in buffer
+Requester 140463276095232 read data and is beginning process of placing it in buffer
+Requester 140463259309824 read data and is beginning process of placing it in buffer
+Requester 140463276095232 read data and is beginning process of placing it in buffer
+Requester 140463259309824 reached EOF
+Requester 140463259309824 has chosen a file
+Requester 140463259309824 has chosen a file
+Requester 140463259309824 read data and is beginning process of placing it in buffer
+Requester 140463267702528 read data and is beginning process of placing it in buffer
+Requester 140463276095232 read data and is beginning process of placing it in buffer
+Requester 140463259309824 read data and is beginning process of placing it in buffer
+Requester 140463267702528 read data and is beginning process of placing it in buffer
+Requester 140463276095232 read data and is beginning process of placing it in buffer
+Requester 140463259309824 read data and is beginning process of placing it in buffer
+Requester 140463259309824 read data and is beginning process of placing it in buffer
+Requester 140463259309824 read data and is beginning process of placing it in buffer
+Requester 140463259309824 read data and is beginning process of placing it in buffer
+Requester 140463276095232 read data and is beginning process of placing it in buffer
+Requester 140463267702528 read data and is beginning process of placing it in buffer
+Requester 140463259309824 read data and is beginning process of placing it in buffer
+Requester 140463276095232 read data and is beginning process of placing it in buffer
+Requester 140463259309824 read data and is beginning process of placing it in buffer
+Requester 140463259309824 read data and is beginning process of placing it in buffer
+Requester 140463259309824 read data and is beginning process of placing it in buffer
+Requester 140463259309824 read data and is beginning process of placing it in buffer
+Requester 140463276095232 read data and is beginning process of placing it in buffer
+Requester 140463267702528 read data and is beginning process of placing it in buffer
+Requester 140463259309824 read data and is beginning process of placing it in buffer
+Requester 140463276095232 read data and is beginning process of placing it in buffer
+Requester 140463267702528 read data and is beginning process of placing it in buffer
+Requester 140463259309824 read data and is beginning process of placing it in buffer
+Requester 140463276095232 read data and is beginning process of placing it in buffer
+Requester 140463267702528 read data and is beginning process of placing it in buffer
+Requester 140463259309824 reached EOF
+Requester 140463259309824 has chosen a file
+Requester 140463259309824 read data and is beginning process of placing it in buffer
+Requester 140463276095232 read data and is beginning process of placing it in buffer
+Requester 140463267702528 has chosen a file
+Requester 140463267702528 has chosen a file
+Requester 140463267702528 read data and is beginning process of placing it in buffer
+Requester 140463259309824 read data and is beginning process of placing it in buffer
+Requester 140463276095232 read data and is beginning process of placing it in buffer
+Requester 140463267702528 read data and is beginning process of placing it in buffer
+Requester 140463259309824 read data and is beginning process of placing it in buffer
+Requester 140463276095232 read data and is beginning process of placing it in buffer
+Requester 140463267702528 reached EOF
+Thread 140463267702528 exiting
+Thread 140463259309824 exiting
+Thread 140463276095232 exiting
+Requester 140391791974144 thread starting
+Requester 140391791974144 has chosen a file
+Requester 140391783581440 thread starting
+Requester 140391783581440 has chosen a file
+Requester 140391775188736 thread starting
+Requester 140391775188736 has chosen a file
+Requester 140391791974144 read data and is beginning process of placing it in buffer
+Requester 140391775188736 read data and is beginning process of placing it in buffer
+Requester 140391783581440 read data and is beginning process of placing it in buffer
+Requester 140391791974144 read data and is beginning process of placing it in buffer
+Requester 140391791974144 read data and is beginning process of placing it in buffer
+Requester 140391791974144 read data and is beginning process of placing it in buffer
+Requester 140391791974144 read data and is beginning process of placing it in buffer
+Requester 140391783581440 read data and is beginning process of placing it in buffer
+Requester 140391783581440 read data and is beginning process of placing it in buffer
+Requester 140391783581440 read data and is beginning process of placing it in buffer
+Requester 140391783581440 read data and is beginning process of placing it in buffer
+Requester 140391775188736 read data and is beginning process of placing it in buffer
+Requester 140391775188736 read data and is beginning process of placing it in buffer
+Requester 140391775188736 read data and is beginning process of placing it in buffer
+Requester 140391775188736 read data and is beginning process of placing it in buffer
+Requester 140391791974144 read data and is beginning process of placing it in buffer
+Requester 140391791974144 read data and is beginning process of placing it in buffer
+Requester 140391791974144 read data and is beginning process of placing it in buffer
+Requester 140391791974144 read data and is beginning process of placing it in buffer
+Requester 140391783581440 read data and is beginning process of placing it in buffer
+Requester 140391783581440 read data and is beginning process of placing it in buffer
+Requester 140391783581440 read data and is beginning process of placing it in buffer
+Requester 140391783581440 read data and is beginning process of placing it in buffer
+Requester 140391775188736 read data and is beginning process of placing it in buffer
+Requester 140391775188736 read data and is beginning process of placing it in buffer
+Requester 140391775188736 read data and is beginning process of placing it in buffer
+Requester 140391783581440 read data and is beginning process of placing it in buffer
+Requester 140391791974144 read data and is beginning process of placing it in buffer
+Requester 140391775188736 read data and is beginning process of placing it in buffer
+Requester 140391783581440 read data and is beginning process of placing it in buffer
+Requester 140391783581440 read data and is beginning process of placing it in buffer
+Requester 140391775188736 read data and is beginning process of placing it in buffer
+Requester 140391783581440 read data and is beginning process of placing it in buffer
+Requester 140391775188736 read data and is beginning process of placing it in buffer
+Requester 140391775188736 read data and is beginning process of placing it in buffer
+Requester 140391783581440 read data and is beginning process of placing it in buffer
+Requester 140391783581440 read data and is beginning process of placing it in buffer
+Requester 140391783581440 read data and is beginning process of placing it in buffer
+Requester 140391783581440 read data and is beginning process of placing it in buffer
+Requester 140391775188736 read data and is beginning process of placing it in buffer
+Requester 140391791974144 read data and is beginning process of placing it in buffer
+Requester 140391783581440 read data and is beginning process of placing it in buffer
+Requester 140391775188736 read data and is beginning process of placing it in buffer
+Requester 140391791974144 read data and is beginning process of placing it in buffer
+Requester 140391783581440 read data and is beginning process of placing it in buffer
+Requester 140391775188736 read data and is beginning process of placing it in buffer
+Requester 140391791974144 read data and is beginning process of placing it in buffer
+Requester 140391783581440 read data and is beginning process of placing it in buffer
+Requester 140391775188736 read data and is beginning process of placing it in buffer
+Requester 140391791974144 read data and is beginning process of placing it in buffer
+Requester 140391783581440 reached EOF
+Requester 140391783581440 has chosen a file
+Requester 140391783581440 read data and is beginning process of placing it in buffer
+Requester 140391775188736 read data and is beginning process of placing it in buffer
+Requester 140391791974144 read data and is beginning process of placing it in buffer
+Requester 140391783581440 read data and is beginning process of placing it in buffer
+Requester 140391775188736 read data and is beginning process of placing it in buffer
+Requester 140391791974144 read data and is beginning process of placing it in buffer
+Requester 140391783581440 read data and is beginning process of placing it in buffer
+Requester 140391775188736 read data and is beginning process of placing it in buffer
+Requester 140391775188736 read data and is beginning process of placing it in buffer
+Requester 140391783581440 read data and is beginning process of placing it in buffer
+Requester 140391775188736 reached EOF
+Requester 140391775188736 has chosen a file
+Requester 140391775188736 read data and is beginning process of placing it in buffer
+Requester 140391783581440 read data and is beginning process of placing it in buffer
+Requester 140391775188736 read data and is beginning process of placing it in buffer
+Requester 140391791974144 reached EOF
+Thread 140391791974144 exiting
+Thread 140391783581440 exiting
+Thread 140391775188736 exiting
+Requester 139756171790080 thread starting
+Requester 139756171790080 has chosen a file
+Requester 139756171790080 read data and is beginning process of placing it in buffer
+Requester 139756171790080 read data and is beginning process of placing it in buffer
+Requester 139756171790080 read data and is beginning process of placing it in buffer
+Requester 139756171790080 read data and is beginning process of placing it in buffer
+Requester 139756171790080 read data and is beginning process of placing it in buffer
+Requester 139756171790080 read data and is beginning process of placing it in buffer
+Requester 139756171790080 read data and is beginning process of placing it in buffer
+Requester 139756171790080 read data and is beginning process of placing it in buffer
+Requester 139756171790080 read data and is beginning process of placing it in buffer
+Requester 139756171790080 read data and is beginning process of placing it in buffer
+Requester 139756171790080 read data and is beginning process of placing it in buffer
+Requester 139756171790080 read data and is beginning process of placing it in buffer
+Requester 139756171790080 read data and is beginning process of placing it in buffer
+Requester 139756171790080 read data and is beginning process of placing it in buffer
+Requester 139756171790080 read data and is beginning process of placing it in buffer
+Requester 139756171790080 read data and is beginning process of placing it in buffer
+Requester 139756171790080 read data and is beginning process of placing it in buffer
+Requester 139756171790080 read data and is beginning process of placing it in buffer
+Requester 139756171790080 read data and is beginning process of placing it in buffer
+Requester 139756171790080 read data and is beginning process of placing it in buffer
+Requester 139756171790080 read data and is beginning process of placing it in buffer
+Requester 139756163397376 thread starting
+Requester 139756163397376 has chosen a file
+Requester 139756163397376 read data and is beginning process of placing it in buffer
+Requester 139756021217024 thread starting
+Requester 139756021217024 has chosen a file
+Requester 139756021217024 read data and is beginning process of placing it in buffer
+Requester 139756171790080 read data and is beginning process of placing it in buffer
+Requester 139756163397376 read data and is beginning process of placing it in buffer
+Requester 139756171790080 read data and is beginning process of placing it in buffer
+Requester 139756021217024 read data and is beginning process of placing it in buffer
+Requester 139756163397376 read data and is beginning process of placing it in buffer
+Requester 139756171790080 reached EOF
+Requester 139756171790080 has chosen a file
+Requester 139756171790080 has chosen a file
+Requester 139756171790080 read data and is beginning process of placing it in buffer
+Requester 139756021217024 read data and is beginning process of placing it in buffer
+Requester 139756163397376 read data and is beginning process of placing it in buffer
+Requester 139756171790080 read data and is beginning process of placing it in buffer
+Requester 139756021217024 read data and is beginning process of placing it in buffer
+Requester 139756163397376 read data and is beginning process of placing it in buffer
+Requester 139756171790080 read data and is beginning process of placing it in buffer
+Requester 139756021217024 read data and is beginning process of placing it in buffer
+Requester 139756163397376 read data and is beginning process of placing it in buffer
+Requester 139756171790080 read data and is beginning process of placing it in buffer
+Requester 139756021217024 read data and is beginning process of placing it in buffer
+Requester 139756163397376 read data and is beginning process of placing it in buffer
+Requester 139756171790080 read data and is beginning process of placing it in buffer
+Requester 139756021217024 read data and is beginning process of placing it in buffer
+Requester 139756163397376 read data and is beginning process of placing it in buffer
+Requester 139756171790080 read data and is beginning process of placing it in buffer
+Requester 139756171790080 read data and is beginning process of placing it in buffer
+Requester 139756163397376 read data and is beginning process of placing it in buffer
+Requester 139756171790080 read data and is beginning process of placing it in buffer
+Requester 139756021217024 read data and is beginning process of placing it in buffer
+Requester 139756163397376 read data and is beginning process of placing it in buffer
+Requester 139756171790080 read data and is beginning process of placing it in buffer
+Requester 139756021217024 read data and is beginning process of placing it in buffer
+Requester 139756163397376 read data and is beginning process of placing it in buffer
+Requester 139756171790080 reached EOF
+Requester 139756171790080 has chosen a file
+Requester 139756171790080 read data and is beginning process of placing it in buffer
+Requester 139756021217024 read data and is beginning process of placing it in buffer
+Requester 139756163397376 has chosen a file
+Requester 139756163397376 has chosen a file
+Requester 139756163397376 read data and is beginning process of placing it in buffer
+Requester 139756171790080 read data and is beginning process of placing it in buffer
+Requester 139756021217024 read data and is beginning process of placing it in buffer
+Requester 139756163397376 read data and is beginning process of placing it in buffer
+Requester 139756171790080 read data and is beginning process of placing it in buffer
+Requester 139756021217024 read data and is beginning process of placing it in buffer
+Requester 139756163397376 read data and is beginning process of placing it in buffer
+Requester 139756171790080 read data and is beginning process of placing it in buffer
+Requester 139756021217024 read data and is beginning process of placing it in buffer
+Requester 139756163397376 reached EOF
+Thread 139756163397376 exiting
+Thread 139756171790080 exiting
+Thread 139756021217024 exiting
+Requester 139958062642944 thread starting
+Requester 139958062642944 has chosen a file
+Requester 139958054250240 thread starting
+Requester 139958054250240 has chosen a file
+Requester 139958045857536 thread starting
+Requester 139958045857536 has chosen a file
+Requester 139958062642944 read data and is beginning process of placing it in buffer
+Requester 139958062642944 read data and is beginning process of placing it in buffer
+Requester 139958062642944 read data and is beginning process of placing it in buffer
+Requester 139958062642944 read data and is beginning process of placing it in buffer
+Requester 139958062642944 read data and is beginning process of placing it in buffer
+Requester 139958062642944 read data and is beginning process of placing it in buffer
+Requester 139958062642944 read data and is beginning process of placing it in buffer
+Requester 139958062642944 read data and is beginning process of placing it in buffer
+Requester 139958062642944 read data and is beginning process of placing it in buffer
+Requester 139958062642944 read data and is beginning process of placing it in buffer
+Requester 139958062642944 read data and is beginning process of placing it in buffer
+Requester 139958062642944 read data and is beginning process of placing it in buffer
+Requester 139958062642944 read data and is beginning process of placing it in buffer
+Requester 139958062642944 read data and is beginning process of placing it in buffer
+Requester 139958062642944 read data and is beginning process of placing it in buffer
+Requester 139958062642944 read data and is beginning process of placing it in buffer
+Requester 139958062642944 read data and is beginning process of placing it in buffer
+Requester 139958062642944 read data and is beginning process of placing it in buffer
+Requester 139958062642944 read data and is beginning process of placing it in buffer
+Requester 139958062642944 read data and is beginning process of placing it in buffer
+Requester 139958062642944 read data and is beginning process of placing it in buffer
+Requester 139958062642944 read data and is beginning process of placing it in buffer
+Requester 139958062642944 read data and is beginning process of placing it in buffer
+Requester 139958062642944 reached EOF
+Requester 139958062642944 has chosen a file
+Requester 139958062642944 has chosen a file
+Requester 139958054250240 read data and is beginning process of placing it in buffer
+Requester 139958045857536 read data and is beginning process of placing it in buffer
+Requester 139958062642944 read data and is beginning process of placing it in buffer
+Requester 139958054250240 read data and is beginning process of placing it in buffer
+Requester 139958045857536 read data and is beginning process of placing it in buffer
+Requester 139958062642944 read data and is beginning process of placing it in buffer
+Requester 139958062642944 read data and is beginning process of placing it in buffer
+Requester 139958062642944 read data and is beginning process of placing it in buffer
+Requester 139958062642944 read data and is beginning process of placing it in buffer
+Requester 139958062642944 read data and is beginning process of placing it in buffer
+Requester 139958045857536 read data and is beginning process of placing it in buffer
+Requester 139958045857536 read data and is beginning process of placing it in buffer
+Requester 139958045857536 read data and is beginning process of placing it in buffer
+Requester 139958045857536 read data and is beginning process of placing it in buffer
+Requester 139958045857536 read data and is beginning process of placing it in buffer
+Requester 139958045857536 read data and is beginning process of placing it in buffer
+Requester 139958062642944 read data and is beginning process of placing it in buffer
+Requester 139958054250240 read data and is beginning process of placing it in buffer
+Requester 139958045857536 read data and is beginning process of placing it in buffer
+Requester 139958062642944 read data and is beginning process of placing it in buffer
+Requester 139958054250240 read data and is beginning process of placing it in buffer
+Requester 139958045857536 read data and is beginning process of placing it in buffer
+Requester 139958062642944 read data and is beginning process of placing it in buffer
+Requester 139958054250240 read data and is beginning process of placing it in buffer
+Requester 139958045857536 read data and is beginning process of placing it in buffer
+Requester 139958062642944 read data and is beginning process of placing it in buffer
+Requester 139958054250240 read data and is beginning process of placing it in buffer
+Requester 139958045857536 read data and is beginning process of placing it in buffer
+Requester 139958062642944 read data and is beginning process of placing it in buffer
+Requester 139958054250240 read data and is beginning process of placing it in buffer
+Requester 139958045857536 read data and is beginning process of placing it in buffer
+Requester 139958062642944 read data and is beginning process of placing it in buffer
+Requester 139958062642944 read data and is beginning process of placing it in buffer
+Requester 139958062642944 reached EOF
+Requester 139958062642944 has chosen a file
+Requester 139958062642944 read data and is beginning process of placing it in buffer
+Requester 139958062642944 read data and is beginning process of placing it in buffer
+Requester 139958062642944 read data and is beginning process of placing it in buffer
+Requester 139958062642944 read data and is beginning process of placing it in buffer
+Requester 139958045857536 read data and is beginning process of placing it in buffer
+Requester 139958054250240 has chosen a file
+Requester 139958054250240 has chosen a file
+Requester 139958054250240 read data and is beginning process of placing it in buffer
+Requester 139958062642944 read data and is beginning process of placing it in buffer
+Requester 139958045857536 reached EOF
+Thread 139958045857536 exiting
+Thread 139958054250240 exiting
+Thread 139958062642944 exiting
+Requester 140179037402880 thread starting
+Requester 140179037402880 has chosen a file
+Requester 140179029010176 thread starting
+Requester 140179037402880 read data and is beginning process of placing it in buffer
+Requester 140179029010176 has chosen a file
+Requester 140179029010176 read data and is beginning process of placing it in buffer
+Requester 140179029010176 read data and is beginning process of placing it in buffer
+Requester 140179029010176 read data and is beginning process of placing it in buffer
+Requester 140179029010176 read data and is beginning process of placing it in buffer
+Requester 140179029010176 read data and is beginning process of placing it in buffer
+Requester 140179029010176 read data and is beginning process of placing it in buffer
+Requester 140179029010176 read data and is beginning process of placing it in buffer
+Requester 140179029010176 read data and is beginning process of placing it in buffer
+Requester 140179029010176 read data and is beginning process of placing it in buffer
+Requester 140179029010176 read data and is beginning process of placing it in buffer
+Requester 140179029010176 read data and is beginning process of placing it in buffer
+Requester 140179029010176 read data and is beginning process of placing it in buffer
+Requester 140179029010176 read data and is beginning process of placing it in buffer
+Requester 140179029010176 read data and is beginning process of placing it in buffer
+Requester 140179029010176 read data and is beginning process of placing it in buffer
+Requester 140179029010176 read data and is beginning process of placing it in buffer
+Requester 140179029010176 read data and is beginning process of placing it in buffer
+Requester 140179029010176 read data and is beginning process of placing it in buffer
+Requester 140179029010176 read data and is beginning process of placing it in buffer
+Requester 140179029010176 read data and is beginning process of placing it in buffer
+Requester 140179029010176 reached EOF
+Requester 140179029010176 has chosen a file
+Requester 140179029010176 read data and is beginning process of placing it in buffer
+Requester 140179020617472 thread starting
+Requester 140179020617472 has chosen a file
+Requester 140179020617472 read data and is beginning process of placing it in buffer
+Requester 140179029010176 read data and is beginning process of placing it in buffer
+Requester 140179029010176 read data and is beginning process of placing it in buffer
+Requester 140179037402880 read data and is beginning process of placing it in buffer
+Requester 140179020617472 read data and is beginning process of placing it in buffer
+Requester 140179029010176 read data and is beginning process of placing it in buffer
+Requester 140179020617472 read data and is beginning process of placing it in buffer
+Requester 140179020617472 read data and is beginning process of placing it in buffer
+Requester 140179029010176 read data and is beginning process of placing it in buffer
+Requester 140179020617472 read data and is beginning process of placing it in buffer
+Requester 140179037402880 read data and is beginning process of placing it in buffer
+Requester 140179029010176 read data and is beginning process of placing it in buffer
+Requester 140179020617472 read data and is beginning process of placing it in buffer
+Requester 140179037402880 read data and is beginning process of placing it in buffer
+Requester 140179029010176 read data and is beginning process of placing it in buffer
+Requester 140179020617472 read data and is beginning process of placing it in buffer
+Requester 140179037402880 read data and is beginning process of placing it in buffer
+Requester 140179029010176 read data and is beginning process of placing it in buffer
+Requester 140179020617472 read data and is beginning process of placing it in buffer
+Requester 140179037402880 read data and is beginning process of placing it in buffer
+Requester 140179029010176 read data and is beginning process of placing it in buffer
+Requester 140179020617472 read data and is beginning process of placing it in buffer
+Requester 140179037402880 read data and is beginning process of placing it in buffer
+Requester 140179029010176 read data and is beginning process of placing it in buffer
+Requester 140179020617472 read data and is beginning process of placing it in buffer
+Requester 140179037402880 read data and is beginning process of placing it in buffer
+Requester 140179029010176 read data and is beginning process of placing it in buffer
+Requester 140179020617472 read data and is beginning process of placing it in buffer
+Requester 140179037402880 read data and is beginning process of placing it in buffer
+Requester 140179029010176 read data and is beginning process of placing it in buffer
+Requester 140179020617472 read data and is beginning process of placing it in buffer
+Requester 140179037402880 read data and is beginning process of placing it in buffer
+Requester 140179029010176 read data and is beginning process of placing it in buffer
+Requester 140179020617472 read data and is beginning process of placing it in buffer
+Requester 140179037402880 reached EOF
+Requester 140179037402880 has chosen a file
+Requester 140179037402880 read data and is beginning process of placing it in buffer
+Requester 140179029010176 read data and is beginning process of placing it in buffer
+Requester 140179020617472 has chosen a file
+Requester 140179020617472 has chosen a file
+Requester 140179020617472 read data and is beginning process of placing it in buffer
+Requester 140179037402880 read data and is beginning process of placing it in buffer
+Requester 140179029010176 read data and is beginning process of placing it in buffer
+Requester 140179020617472 read data and is beginning process of placing it in buffer
+Requester 140179037402880 read data and is beginning process of placing it in buffer
+Requester 140179029010176 reached EOF
+Thread 140179029010176 exiting
+Thread 140179020617472 exiting
+Thread 140179037402880 exiting
+Requester 140255056910080 thread starting
+Requester 140255056910080 has chosen a file
+Requester 140255056910080 read data and is beginning process of placing it in buffer
+Requester 140255056910080 read data and is beginning process of placing it in buffer
+Requester 140255056910080 read data and is beginning process of placing it in buffer
+Requester 140255056910080 read data and is beginning process of placing it in buffer
+Requester 140255056910080 read data and is beginning process of placing it in buffer
+Requester 140255056910080 read data and is beginning process of placing it in buffer
+Requester 140255056910080 read data and is beginning process of placing it in buffer
+Requester 140255056910080 read data and is beginning process of placing it in buffer
+Requester 140255056910080 read data and is beginning process of placing it in buffer
+Requester 140255056910080 read data and is beginning process of placing it in buffer
+Requester 140255056910080 read data and is beginning process of placing it in buffer
+Requester 140255056910080 read data and is beginning process of placing it in buffer
+Requester 140255056910080 read data and is beginning process of placing it in buffer
+Requester 140255056910080 read data and is beginning process of placing it in buffer
+Requester 140255056910080 read data and is beginning process of placing it in buffer
+Requester 140255056910080 read data and is beginning process of placing it in buffer
+Requester 140255056910080 read data and is beginning process of placing it in buffer
+Requester 140255056910080 read data and is beginning process of placing it in buffer
+Requester 140255056910080 read data and is beginning process of placing it in buffer
+Requester 140255056910080 read data and is beginning process of placing it in buffer
+Requester 140255056910080 read data and is beginning process of placing it in buffer
+Requester 140255056910080 read data and is beginning process of placing it in buffer
+Requester 140255056910080 read data and is beginning process of placing it in buffer
+Requester 140255056910080 reached EOF
+Requester 140255056910080 has chosen a file
+Requester 140255056910080 read data and is beginning process of placing it in buffer
+Requester 140255056910080 read data and is beginning process of placing it in buffer
+Requester 140255056910080 read data and is beginning process of placing it in buffer
+Requester 140255065302784 thread starting
+Requester 140255065302784 has chosen a file
+Requester 140255065302784 read data and is beginning process of placing it in buffer
+Requester 140255073695488 thread starting
+Requester 140255073695488 has chosen a file
+Requester 140255073695488 has chosen a file
+Requester 140255073695488 read data and is beginning process of placing it in buffer
+Requester 140255073695488 read data and is beginning process of placing it in buffer
+Requester 140255073695488 read data and is beginning process of placing it in buffer
+Requester 140255073695488 read data and is beginning process of placing it in buffer
+Requester 140255073695488 read data and is beginning process of placing it in buffer
+Requester 140255056910080 read data and is beginning process of placing it in buffer
+Requester 140255056910080 read data and is beginning process of placing it in buffer
+Requester 140255056910080 read data and is beginning process of placing it in buffer
+Requester 140255056910080 read data and is beginning process of placing it in buffer
+Requester 140255065302784 read data and is beginning process of placing it in buffer
+Requester 140255056910080 read data and is beginning process of placing it in buffer
+Requester 140255056910080 read data and is beginning process of placing it in buffer
+Requester 140255073695488 read data and is beginning process of placing it in buffer
+Requester 140255056910080 read data and is beginning process of placing it in buffer
+Requester 140255073695488 read data and is beginning process of placing it in buffer
+Requester 140255065302784 read data and is beginning process of placing it in buffer
+Requester 140255056910080 read data and is beginning process of placing it in buffer
+Requester 140255056910080 read data and is beginning process of placing it in buffer
+Requester 140255065302784 read data and is beginning process of placing it in buffer
+Requester 140255056910080 read data and is beginning process of placing it in buffer
+Requester 140255065302784 read data and is beginning process of placing it in buffer
+Requester 140255065302784 read data and is beginning process of placing it in buffer
+Requester 140255056910080 reached EOF
+Requester 140255056910080 has chosen a file
+Requester 140255056910080 read data and is beginning process of placing it in buffer
+Requester 140255065302784 read data and is beginning process of placing it in buffer
+Requester 140255073695488 has chosen a file
+Requester 140255073695488 has chosen a file
+Requester 140255073695488 read data and is beginning process of placing it in buffer
+Requester 140255056910080 read data and is beginning process of placing it in buffer
+Requester 140255065302784 read data and is beginning process of placing it in buffer
+Requester 140255073695488 read data and is beginning process of placing it in buffer
+Requester 140255056910080 read data and is beginning process of placing it in buffer
+Requester 140255065302784 read data and is beginning process of placing it in buffer
+Requester 140255073695488 read data and is beginning process of placing it in buffer
+Requester 140255056910080 read data and is beginning process of placing it in buffer
+Requester 140255065302784 read data and is beginning process of placing it in buffer
+Requester 140255073695488 read data and is beginning process of placing it in buffer
+Requester 140255056910080 read data and is beginning process of placing it in buffer
+Requester 140255065302784 read data and is beginning process of placing it in buffer
+Requester 140255073695488 reached EOF
+Thread 140255073695488 exiting
+Thread 140255056910080 exiting
+Thread 140255065302784 exiting
+Requester 140620913612544 thread starting
+Requester 140620913612544 has chosen a file
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620905219840 thread starting
+Requester 140620905219840 has chosen a file
+Requester 140620896827136 thread starting
+Requester 140620896827136 has chosen a file
+Requester 140620905219840 read data and is beginning process of placing it in buffer
+Requester 140620896827136 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620905219840 read data and is beginning process of placing it in buffer
+Requester 140620913612544 reached EOF
+Requester 140620913612544 has chosen a file
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620905219840 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620896827136 read data and is beginning process of placing it in buffer
+Requester 140620896827136 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620896827136 read data and is beginning process of placing it in buffer
+Requester 140620905219840 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620905219840 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620896827136 read data and is beginning process of placing it in buffer
+Requester 140620905219840 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620896827136 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620913612544 reached EOF
+Requester 140620913612544 has chosen a file
+Requester 140620913612544 has chosen a file
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620905219840 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620896827136 read data and is beginning process of placing it in buffer
+Requester 140620905219840 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620905219840 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620905219840 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620905219840 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620896827136 read data and is beginning process of placing it in buffer
+Requester 140620905219840 reached EOF
+Requester 140620905219840 has chosen a file
+Requester 140620905219840 read data and is beginning process of placing it in buffer
+Requester 140620913612544 has chosen a file
+Requester 140620913612544 has chosen a file
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620905219840 read data and is beginning process of placing it in buffer
+Requester 140620905219840 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620905219840 read data and is beginning process of placing it in buffer
+Requester 140620896827136 read data and is beginning process of placing it in buffer
+Requester 140620905219840 read data and is beginning process of placing it in buffer
+Requester 140620905219840 read data and is beginning process of placing it in buffer
+Requester 140620896827136 read data and is beginning process of placing it in buffer
+Requester 140620905219840 read data and is beginning process of placing it in buffer
+Requester 140620913612544 read data and is beginning process of placing it in buffer
+Requester 140620896827136 reached EOF
+Thread 140620896827136 exiting
+Thread 140620905219840 exiting
+Thread 140620913612544 exiting
+Requester 140452537329408 thread starting
+Requester 140452537329408 has chosen a file
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452554114816 thread starting
+Requester 140452554114816 has chosen a file
+Requester 140452554114816 read data and is beginning process of placing it in buffer
+Requester 140452545722112 thread starting
+Requester 140452545722112 has chosen a file
+Requester 140452554114816 read data and is beginning process of placing it in buffer
+Requester 140452554114816 read data and is beginning process of placing it in buffer
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452537329408 reached EOF
+Requester 140452537329408 has chosen a file
+Requester 140452545722112 read data and is beginning process of placing it in buffer
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452545722112 read data and is beginning process of placing it in buffer
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452545722112 read data and is beginning process of placing it in buffer
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452545722112 read data and is beginning process of placing it in buffer
+Requester 140452554114816 read data and is beginning process of placing it in buffer
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452545722112 read data and is beginning process of placing it in buffer
+Requester 140452554114816 read data and is beginning process of placing it in buffer
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452545722112 read data and is beginning process of placing it in buffer
+Requester 140452554114816 read data and is beginning process of placing it in buffer
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452545722112 read data and is beginning process of placing it in buffer
+Requester 140452554114816 read data and is beginning process of placing it in buffer
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452545722112 read data and is beginning process of placing it in buffer
+Requester 140452554114816 read data and is beginning process of placing it in buffer
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452545722112 read data and is beginning process of placing it in buffer
+Requester 140452554114816 read data and is beginning process of placing it in buffer
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452545722112 read data and is beginning process of placing it in buffer
+Requester 140452554114816 read data and is beginning process of placing it in buffer
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452545722112 read data and is beginning process of placing it in buffer
+Requester 140452554114816 read data and is beginning process of placing it in buffer
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452545722112 read data and is beginning process of placing it in buffer
+Requester 140452554114816 read data and is beginning process of placing it in buffer
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452545722112 read data and is beginning process of placing it in buffer
+Requester 140452554114816 read data and is beginning process of placing it in buffer
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452545722112 read data and is beginning process of placing it in buffer
+Requester 140452554114816 read data and is beginning process of placing it in buffer
+Requester 140452537329408 reached EOF
+Requester 140452537329408 has chosen a file
+Requester 140452537329408 has chosen a file
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452545722112 read data and is beginning process of placing it in buffer
+Requester 140452554114816 read data and is beginning process of placing it in buffer
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452545722112 read data and is beginning process of placing it in buffer
+Requester 140452554114816 read data and is beginning process of placing it in buffer
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452545722112 read data and is beginning process of placing it in buffer
+Requester 140452554114816 read data and is beginning process of placing it in buffer
+Requester 140452537329408 reached EOF
+Requester 140452537329408 has chosen a file
+Requester 140452537329408 read data and is beginning process of placing it in buffer
+Requester 140452545722112 read data and is beginning process of placing it in buffer
+Requester 140452554114816 has chosen a file
+Requester 140452554114816 has chosen a file
+Requester 140452554114816 read data and is beginning process of placing it in buffer
+Requester 140452537329408 reached EOF
+Thread 140452537329408 exiting
+Thread 140452545722112 exiting
+Thread 140452554114816 exiting
+Requester 139635697297152 thread starting
+Requester 139635697297152 has chosen a file
+Requester 139635697297152 read data and is beginning process of placing it in buffer
+Requester 139635697297152 read data and is beginning process of placing it in buffer
+Requester 139635697297152 read data and is beginning process of placing it in buffer
+Requester 139635697297152 read data and is beginning process of placing it in buffer
+Requester 139635697297152 read data and is beginning process of placing it in buffer
+Requester 139635697297152 read data and is beginning process of placing it in buffer
+Requester 139635697297152 read data and is beginning process of placing it in buffer
+Requester 139635697297152 read data and is beginning process of placing it in buffer
+Requester 139635697297152 read data and is beginning process of placing it in buffer
+Requester 139635697297152 read data and is beginning process of placing it in buffer
+Requester 139635697297152 read data and is beginning process of placing it in buffer
+Requester 139635697297152 read data and is beginning process of placing it in buffer
+Requester 139635697297152 read data and is beginning process of placing it in buffer
+Requester 139635697297152 read data and is beginning process of placing it in buffer
+Requester 139635697297152 read data and is beginning process of placing it in buffer
+Requester 139635697297152 read data and is beginning process of placing it in buffer
+Requester 139635697297152 read data and is beginning process of placing it in buffer
+Requester 139635697297152 read data and is beginning process of placing it in buffer
+Requester 139635697297152 read data and is beginning process of placing it in buffer
+Requester 139635697297152 read data and is beginning process of placing it in buffer
+Requester 139635697297152 read data and is beginning process of placing it in buffer
+Requester 139635688904448 thread starting
+Requester 139635688904448 has chosen a file
+Requester 139635688904448 read data and is beginning process of placing it in buffer
+Requester 139635655333632 thread starting
+Requester 139635655333632 has chosen a file
+Requester 139635638548224 thread starting
+Requester 139635638548224 has chosen a file
+Requester 139635680511744 thread starting
+Requester 139635646940928 thread starting
+Requester 139635680511744 has chosen a file
+Requester 139635646940928 has chosen a file
+Requester 139635672119040 thread starting
+Requester 139635672119040 has chosen a file
+Requester 139635663726336 thread starting
+Requester 139635663726336 has chosen a file
+Requester 139635655333632 read data and is beginning process of placing it in buffer
+Requester 139635680511744 read data and is beginning process of placing it in buffer
+Requester 139635646940928 read data and is beginning process of placing it in buffer
+Requester 139635663726336 read data and is beginning process of placing it in buffer
+Requester 139635638548224 read data and is beginning process of placing it in buffer
+Requester 139635697297152 read data and is beginning process of placing it in buffer
+Requester 139635672119040 read data and is beginning process of placing it in buffer
+Requester 139635688904448 read data and is beginning process of placing it in buffer
+Requester 139635655333632 read data and is beginning process of placing it in buffer
+Requester 139635680511744 reached EOF
+Requester 139635680511744 has chosen a file
+Requester 139635680511744 has chosen a file
+Requester 139635680511744 read data and is beginning process of placing it in buffer
+Requester 139635646940928 read data and is beginning process of placing it in buffer
+Requester 139635697297152 has chosen a file
+Requester 139635697297152 read data and is beginning process of placing it in buffer
+Requester 139635697297152 read data and is beginning process of placing it in buffer
+Requester 139635697297152 read data and is beginning process of placing it in buffer
+Requester 139635638548224 read data and is beginning process of placing it in buffer
+Requester 139635688904448 read data and is beginning process of placing it in buffer
+Requester 139635680511744 read data and is beginning process of placing it in buffer
+Requester 139635655333632 read data and is beginning process of placing it in buffer
+Requester 139635646940928 read data and is beginning process of placing it in buffer
+Requester 139635697297152 read data and is beginning process of placing it in buffer
+Requester 139635638548224 read data and is beginning process of placing it in buffer
+Requester 139635663726336 read data and is beginning process of placing it in buffer
+Requester 139635672119040 read data and is beginning process of placing it in buffer
+Requester 139635688904448 read data and is beginning process of placing it in buffer
+Requester 139635655333632 read data and is beginning process of placing it in buffer
+Requester 139635655333632 read data and is beginning process of placing it in buffer
+Requester 139635646940928 read data and is beginning process of placing it in buffer
+Requester 139635697297152 read data and is beginning process of placing it in buffer
+Requester 139635638548224 read data and is beginning process of placing it in buffer
+Requester 139635663726336 read data and is beginning process of placing it in buffer
+Requester 139635672119040 read data and is beginning process of placing it in buffer
+Requester 139635688904448 read data and is beginning process of placing it in buffer
+Requester 139635655333632 read data and is beginning process of placing it in buffer
+Requester 139635680511744 read data and is beginning process of placing it in buffer
+Requester 139635646940928 read data and is beginning process of placing it in buffer
+Requester 139635646940928 read data and is beginning process of placing it in buffer
+Requester 139635638548224 read data and is beginning process of placing it in buffer
+Requester 139635663726336 read data and is beginning process of placing it in buffer
+Requester 139635672119040 read data and is beginning process of placing it in buffer
+Requester 139635688904448 read data and is beginning process of placing it in buffer
+Requester 139635655333632 read data and is beginning process of placing it in buffer
+Requester 139635655333632 read data and is beginning process of placing it in buffer
+Requester 139635646940928 read data and is beginning process of placing it in buffer
+Requester 139635638548224 read data and is beginning process of placing it in buffer
+Requester 139635638548224 read data and is beginning process of placing it in buffer
+Requester 139635663726336 read data and is beginning process of placing it in buffer
+Requester 139635672119040 read data and is beginning process of placing it in buffer
+Requester 139635688904448 read data and is beginning process of placing it in buffer
+Requester 139635655333632 read data and is beginning process of placing it in buffer
+Requester 139635680511744 read data and is beginning process of placing it in buffer
+Requester 139635646940928 read data and is beginning process of placing it in buffer
+Requester 139635638548224 read data and is beginning process of placing it in buffer
+Requester 139635697297152 read data and is beginning process of placing it in buffer
+Requester 139635663726336 read data and is beginning process of placing it in buffer
+Requester 139635672119040 reached EOF
+Requester 139635672119040 has chosen a file
+Requester 139635672119040 read data and is beginning process of placing it in buffer
+Requester 139635688904448 read data and is beginning process of placing it in buffer
+Requester 139635655333632 has chosen a file
+Requester 139635655333632 has chosen a file
+Requester 139635655333632 reached EOF
+Requester 139635655333632 has chosen a file
+Requester 139635655333632 read data and is beginning process of placing it in buffer
+Requester 139635680511744 has chosen a file
+Requester 139635680511744 has chosen a file
+Requester 139635680511744 read data and is beginning process of placing it in buffer
+Requester 139635680511744 read data and is beginning process of placing it in buffer
+Requester 139635638548224 read data and is beginning process of placing it in buffer
+Requester 139635697297152 has chosen a file
+Requester 139635697297152 has chosen a file
+Requester 139635697297152 read data and is beginning process of placing it in buffer
+Requester 139635663726336 reached EOF
+Thread 139635663726336 exiting
+Thread 139635672119040 exiting
+Thread 139635688904448 exiting
+Thread 139635655333632 exiting
+Thread 139635680511744 exiting
+Thread 139635646940928 exiting
+Thread 139635638548224 exiting
+Thread 139635697297152 exiting
+Requester 140111281460992 thread starting
+Requester 140111281460992 has chosen a file
+Requester 140111281460992 read data and is beginning process of placing it in buffer
+Requester 140111281460992 read data and is beginning process of placing it in buffer
+Requester 140111281460992 read data and is beginning process of placing it in buffer
+Requester 140111281460992 read data and is beginning process of placing it in buffer
+Requester 140111281460992 read data and is beginning process of placing it in buffer
+Requester 140111281460992 read data and is beginning process of placing it in buffer
+Requester 140111281460992 read data and is beginning process of placing it in buffer
+Requester 140111281460992 read data and is beginning process of placing it in buffer
+Requester 140111281460992 read data and is beginning process of placing it in buffer
+Requester 140111281460992 read data and is beginning process of placing it in buffer
+Requester 140111281460992 read data and is beginning process of placing it in buffer
+Requester 140111281460992 read data and is beginning process of placing it in buffer
+Requester 140111281460992 read data and is beginning process of placing it in buffer
+Requester 140111281460992 read data and is beginning process of placing it in buffer
+Requester 140111281460992 read data and is beginning process of placing it in buffer
+Requester 140111281460992 read data and is beginning process of placing it in buffer
+Requester 140111281460992 read data and is beginning process of placing it in buffer
+Requester 140111281460992 read data and is beginning process of placing it in buffer
+Requester 140111281460992 read data and is beginning process of placing it in buffer
+Requester 140111281460992 read data and is beginning process of placing it in buffer
+Requester 140111281460992 read data and is beginning process of placing it in buffer
+Requester 140111273068288 thread starting
+Requester 140111273068288 has chosen a file
+Requester 140111264675584 thread starting
+Requester 140111264675584 has chosen a file
+Requester 140111256282880 thread starting
+Requester 140111256282880 has chosen a file
+Requester 140111247890176 thread starting
+Requester 140111247890176 has chosen a file
+Requester 140111239497472 thread starting
+Requester 140111239497472 has chosen a file
+Requester 140111256282880 read data and is beginning process of placing it in buffer
+Requester 140111247890176 read data and is beginning process of placing it in buffer
+Requester 140111222712064 thread starting
+Requester 140111222712064 has chosen a file
+Requester 140111231104768 thread starting
+Requester 140111231104768 has chosen a file
+Requester 140111231104768 read data and is beginning process of placing it in buffer
+Requester 140111231104768 read data and is beginning process of placing it in buffer
+Requester 140111231104768 read data and is beginning process of placing it in buffer
+Requester 140111231104768 read data and is beginning process of placing it in buffer
+Requester 140111231104768 read data and is beginning process of placing it in buffer
+Requester 140111231104768 read data and is beginning process of placing it in buffer
+Requester 140111231104768 read data and is beginning process of placing it in buffer
+Requester 140111231104768 read data and is beginning process of placing it in buffer
+Requester 140111231104768 read data and is beginning process of placing it in buffer
+Requester 140111231104768 read data and is beginning process of placing it in buffer
+Requester 140111231104768 read data and is beginning process of placing it in buffer
+Requester 140111231104768 read data and is beginning process of placing it in buffer
+Requester 140111264675584 read data and is beginning process of placing it in buffer
+Requester 140111273068288 read data and is beginning process of placing it in buffer
+Requester 140111239497472 read data and is beginning process of placing it in buffer
+Requester 140111222712064 read data and is beginning process of placing it in buffer
+Requester 140111239497472 read data and is beginning process of placing it in buffer
+Requester 140111239497472 read data and is beginning process of placing it in buffer
+Requester 140111239497472 read data and is beginning process of placing it in buffer
+Requester 140111239497472 read data and is beginning process of placing it in buffer
+Requester 140111239497472 read data and is beginning process of placing it in buffer
+Requester 140111239497472 read data and is beginning process of placing it in buffer
+Requester 140111239497472 read data and is beginning process of placing it in buffer
+Requester 140111247890176 read data and is beginning process of placing it in buffer
+Requester 140111256282880 read data and is beginning process of placing it in buffer
+Requester 140111239497472 read data and is beginning process of placing it in buffer
+Requester 140111222712064 read data and is beginning process of placing it in buffer
+Requester 140111247890176 reached EOF
+Requester 140111247890176 has chosen a file
+Requester 140111247890176 has chosen a file
+Requester 140111247890176 read data and is beginning process of placing it in buffer
+Requester 140111247890176 read data and is beginning process of placing it in buffer
+Requester 140111247890176 read data and is beginning process of placing it in buffer
+Requester 140111273068288 read data and is beginning process of placing it in buffer
+Requester 140111222712064 read data and is beginning process of placing it in buffer
+Requester 140111222712064 read data and is beginning process of placing it in buffer
+Requester 140111264675584 read data and is beginning process of placing it in buffer
+Requester 140111264675584 read data and is beginning process of placing it in buffer
+Requester 140111264675584 read data and is beginning process of placing it in buffer
+Requester 140111264675584 read data and is beginning process of placing it in buffer
+Requester 140111222712064 read data and is beginning process of placing it in buffer
+Requester 140111281460992 reached EOF
+Requester 140111281460992 has chosen a file
+Requester 140111281460992 read data and is beginning process of placing it in buffer
+Requester 140111231104768 read data and is beginning process of placing it in buffer
+Requester 140111273068288 read data and is beginning process of placing it in buffer
+Requester 140111273068288 read data and is beginning process of placing it in buffer
+Requester 140111247890176 read data and is beginning process of placing it in buffer
+Requester 140111247890176 read data and is beginning process of placing it in buffer
+Requester 140111222712064 read data and is beginning process of placing it in buffer
+Requester 140111256282880 read data and is beginning process of placing it in buffer
+Requester 140111222712064 read data and is beginning process of placing it in buffer
+Requester 140111231104768 read data and is beginning process of placing it in buffer
+Requester 140111273068288 read data and is beginning process of placing it in buffer
+Requester 140111264675584 read data and is beginning process of placing it in buffer
+Requester 140111264675584 read data and is beginning process of placing it in buffer
+Requester 140111264675584 read data and is beginning process of placing it in buffer
+Requester 140111264675584 read data and is beginning process of placing it in buffer
+Requester 140111222712064 read data and is beginning process of placing it in buffer
+Requester 140111281460992 read data and is beginning process of placing it in buffer
+Requester 140111281460992 read data and is beginning process of placing it in buffer
+Requester 140111273068288 read data and is beginning process of placing it in buffer
+Requester 140111264675584 reached EOF
+Requester 140111264675584 has chosen a file
+Requester 140111264675584 read data and is beginning process of placing it in buffer
+Requester 140111247890176 reached EOF
+Requester 140111247890176 has chosen a file
+Requester 140111247890176 has chosen a file
+Requester 140111247890176 read data and is beginning process of placing it in buffer
+Requester 140111247890176 read data and is beginning process of placing it in buffer
+Requester 140111247890176 reached EOF
+Thread 140111247890176 exiting
+Thread 140111273068288 exiting
+Requester 140111222712064 has chosen a file
+Thread 140111222712064 exiting
+Requester 140111239497472 has chosen a file
+Thread 140111239497472 exiting
+Thread 140111281460992 exiting
+Thread 140111264675584 exiting
+Thread 140111256282880 exiting
+Thread 140111231104768 exiting
+Requester 140340650567424 thread starting
+Requester 140340650567424 has chosen a file
+Requester 140340650567424 read data and is beginning process of placing it in buffer
+Requester 140340650567424 read data and is beginning process of placing it in buffer
+Requester 140340650567424 read data and is beginning process of placing it in buffer
+Requester 140340650567424 read data and is beginning process of placing it in buffer
+Requester 140340650567424 read data and is beginning process of placing it in buffer
+Requester 140340650567424 read data and is beginning process of placing it in buffer
+Requester 140340650567424 read data and is beginning process of placing it in buffer
+Requester 140340650567424 read data and is beginning process of placing it in buffer
+Requester 140340650567424 read data and is beginning process of placing it in buffer
+Requester 140340650567424 read data and is beginning process of placing it in buffer
+Requester 140340650567424 read data and is beginning process of placing it in buffer
+Requester 140340650567424 read data and is beginning process of placing it in buffer
+Requester 140340650567424 read data and is beginning process of placing it in buffer
+Requester 140340650567424 read data and is beginning process of placing it in buffer
+Requester 140340650567424 read data and is beginning process of placing it in buffer
+Requester 140340650567424 read data and is beginning process of placing it in buffer
+Requester 140340650567424 read data and is beginning process of placing it in buffer
+Requester 140340650567424 read data and is beginning process of placing it in buffer
+Requester 140340650567424 read data and is beginning process of placing it in buffer
+Requester 140340650567424 read data and is beginning process of placing it in buffer
+Requester 140340650567424 read data and is beginning process of placing it in buffer
+Requester 140340642174720 thread starting
+Requester 140340642174720 has chosen a file
+Requester 140340642174720 read data and is beginning process of placing it in buffer
+Requester 140340625389312 thread starting
+Requester 140340625389312 has chosen a file
+Requester 140340625389312 read data and is beginning process of placing it in buffer
+Requester 140340616996608 thread starting
+Requester 140340616996608 has chosen a file
+Requester 140340616996608 read data and is beginning process of placing it in buffer
+Requester 140340531029760 thread starting
+Requester 140340531029760 has chosen a file
+Requester 140340531029760 read data and is beginning process of placing it in buffer
+Requester 140340522637056 thread starting
+Requester 140340522637056 has chosen a file
+Requester 140340522637056 read data and is beginning process of placing it in buffer
+Requester 140340633782016 thread starting
+Requester 140340633782016 has chosen a file
+Requester 140340650567424 read data and is beginning process of placing it in buffer
+Requester 140340633782016 read data and is beginning process of placing it in buffer
+Requester 140340539422464 thread starting
+Requester 140340539422464 has chosen a file
+Requester 140340539422464 read data and is beginning process of placing it in buffer
+Requester 140340642174720 read data and is beginning process of placing it in buffer
+Requester 140340625389312 read data and is beginning process of placing it in buffer
+Requester 140340625389312 read data and is beginning process of placing it in buffer
+Requester 140340531029760 reached EOF
+Requester 140340531029760 has chosen a file
+Requester 140340531029760 has chosen a file
+Requester 140340531029760 read data and is beginning process of placing it in buffer
+Requester 140340522637056 read data and is beginning process of placing it in buffer
+Requester 140340650567424 has chosen a file
+Requester 140340650567424 read data and is beginning process of placing it in buffer
+Requester 140340633782016 read data and is beginning process of placing it in buffer
+Requester 140340539422464 read data and is beginning process of placing it in buffer
+Requester 140340642174720 read data and is beginning process of placing it in buffer
+Requester 140340642174720 read data and is beginning process of placing it in buffer
+Requester 140340616996608 read data and is beginning process of placing it in buffer
+Requester 140340616996608 read data and is beginning process of placing it in buffer
+Requester 140340616996608 read data and is beginning process of placing it in buffer
+Requester 140340650567424 read data and is beginning process of placing it in buffer
+Requester 140340633782016 read data and is beginning process of placing it in buffer
+Requester 140340539422464 read data and is beginning process of placing it in buffer
+Requester 140340642174720 read data and is beginning process of placing it in buffer
+Requester 140340616996608 read data and is beginning process of placing it in buffer
+Requester 140340616996608 read data and is beginning process of placing it in buffer
+Requester 140340522637056 read data and is beginning process of placing it in buffer
+Requester 140340650567424 read data and is beginning process of placing it in buffer
+Requester 140340650567424 read data and is beginning process of placing it in buffer
+Requester 140340633782016 read data and is beginning process of placing it in buffer
+Requester 140340539422464 read data and is beginning process of placing it in buffer
+Requester 140340642174720 read data and is beginning process of placing it in buffer
+Requester 140340616996608 read data and is beginning process of placing it in buffer
+Requester 140340625389312 read data and is beginning process of placing it in buffer
+Requester 140340522637056 read data and is beginning process of placing it in buffer
+Requester 140340650567424 read data and is beginning process of placing it in buffer
+Requester 140340633782016 read data and is beginning process of placing it in buffer
+Requester 140340531029760 read data and is beginning process of placing it in buffer
+Requester 140340531029760 read data and is beginning process of placing it in buffer
+Requester 140340642174720 read data and is beginning process of placing it in buffer
+Requester 140340642174720 read data and is beginning process of placing it in buffer
+Requester 140340642174720 read data and is beginning process of placing it in buffer
+Requester 140340642174720 read data and is beginning process of placing it in buffer
+Requester 140340633782016 read data and is beginning process of placing it in buffer
+Requester 140340633782016 read data and is beginning process of placing it in buffer
+Requester 140340650567424 read data and is beginning process of placing it in buffer
+Requester 140340650567424 read data and is beginning process of placing it in buffer
+Requester 140340642174720 read data and is beginning process of placing it in buffer
+Requester 140340522637056 read data and is beginning process of placing it in buffer
+Requester 140340616996608 read data and is beginning process of placing it in buffer
+Requester 140340633782016 read data and is beginning process of placing it in buffer
+Requester 140340633782016 read data and is beginning process of placing it in buffer
+Requester 140340642174720 read data and is beginning process of placing it in buffer
+Requester 140340642174720 reached EOF
+Requester 140340642174720 has chosen a file
+Requester 140340642174720 read data and is beginning process of placing it in buffer
+Requester 140340642174720 read data and is beginning process of placing it in buffer
+Requester 140340642174720 read data and is beginning process of placing it in buffer
+Requester 140340522637056 has chosen a file
+Requester 140340522637056 has chosen a file
+Requester 140340522637056 reached EOF
+Requester 140340522637056 has chosen a file
+Requester 140340522637056 read data and is beginning process of placing it in buffer
+Requester 140340650567424 has chosen a file
+Requester 140340650567424 has chosen a file
+Requester 140340650567424 read data and is beginning process of placing it in buffer
+Requester 140340633782016 has chosen a file
+Requester 140340633782016 has chosen a file
+Requester 140340633782016 read data and is beginning process of placing it in buffer
+Requester 140340642174720 read data and is beginning process of placing it in buffer
+Requester 140340642174720 read data and is beginning process of placing it in buffer
+Requester 140340522637056 reached EOF
+Thread 140340522637056 exiting
+Thread 140340616996608 exiting
+Thread 140340650567424 exiting
+Thread 140340531029760 exiting
+Thread 140340539422464 exiting
+Thread 140340642174720 exiting
+Thread 140340633782016 exiting
+Thread 140340625389312 exiting
+Requester 140099181557504 thread starting
+Requester 140099181557504 has chosen a file
+Requester 140099181557504 read data and is beginning process of placing it in buffer
+Requester 140099181557504 read data and is beginning process of placing it in buffer
+Requester 140099181557504 read data and is beginning process of placing it in buffer
+Requester 140099181557504 read data and is beginning process of placing it in buffer
+Requester 140099181557504 read data and is beginning process of placing it in buffer
+Requester 140099181557504 read data and is beginning process of placing it in buffer
+Requester 140099181557504 read data and is beginning process of placing it in buffer
+Requester 140099181557504 read data and is beginning process of placing it in buffer
+Requester 140099181557504 read data and is beginning process of placing it in buffer
+Requester 140099173164800 thread starting
+Requester 140099173164800 has chosen a file
+Requester 140099173164800 read data and is beginning process of placing it in buffer
+Requester 140099173164800 read data and is beginning process of placing it in buffer
+Requester 140099173164800 read data and is beginning process of placing it in buffer
+Requester 140099173164800 read data and is beginning process of placing it in buffer
+Requester 140099173164800 read data and is beginning process of placing it in buffer
+Requester 140099173164800 read data and is beginning process of placing it in buffer
+Requester 140099173164800 read data and is beginning process of placing it in buffer
+Requester 140099173164800 read data and is beginning process of placing it in buffer
+Requester 140099173164800 read data and is beginning process of placing it in buffer
+Requester 140099173164800 read data and is beginning process of placing it in buffer
+Requester 140099173164800 read data and is beginning process of placing it in buffer
+Requester 140099173164800 read data and is beginning process of placing it in buffer
+Requester 140099164772096 thread starting
+Requester 140099164772096 has chosen a file
+Requester 140099164772096 read data and is beginning process of placing it in buffer
+Requester 140099181557504 read data and is beginning process of placing it in buffer
+Requester 140099139593984 thread starting
+Requester 140099139593984 has chosen a file
+Requester 140099147986688 thread starting
+Requester 140099147986688 has chosen a file
+Requester 140099198342912 thread starting
+Requester 140099198342912 has chosen a file
+Requester 140099156379392 thread starting
+Requester 140099156379392 has chosen a file
+Requester 140099189950208 thread starting
+Requester 140099189950208 has chosen a file
+Requester 140099173164800 read data and is beginning process of placing it in buffer
+Requester 140099198342912 read data and is beginning process of placing it in buffer
+Requester 140099147986688 read data and is beginning process of placing it in buffer
+Requester 140099139593984 read data and is beginning process of placing it in buffer
+Requester 140099156379392 read data and is beginning process of placing it in buffer
+Requester 140099189950208 read data and is beginning process of placing it in buffer
+Requester 140099198342912 read data and is beginning process of placing it in buffer
+Requester 140099198342912 read data and is beginning process of placing it in buffer
+Requester 140099198342912 read data and is beginning process of placing it in buffer
+Requester 140099198342912 read data and is beginning process of placing it in buffer
+Requester 140099147986688 read data and is beginning process of placing it in buffer
+Requester 140099139593984 read data and is beginning process of placing it in buffer
+Requester 140099156379392 read data and is beginning process of placing it in buffer
+Requester 140099189950208 read data and is beginning process of placing it in buffer
+Requester 140099189950208 read data and is beginning process of placing it in buffer
+Requester 140099147986688 read data and is beginning process of placing it in buffer
+Requester 140099139593984 read data and is beginning process of placing it in buffer
+Requester 140099156379392 read data and is beginning process of placing it in buffer
+Requester 140099189950208 read data and is beginning process of placing it in buffer
+Requester 140099198342912 read data and is beginning process of placing it in buffer
+Requester 140099164772096 read data and is beginning process of placing it in buffer
+Requester 140099173164800 read data and is beginning process of placing it in buffer
+Requester 140099181557504 read data and is beginning process of placing it in buffer
+Requester 140099147986688 read data and is beginning process of placing it in buffer
+Requester 140099139593984 read data and is beginning process of placing it in buffer
+Requester 140099156379392 read data and is beginning process of placing it in buffer
+Requester 140099189950208 read data and is beginning process of placing it in buffer
+Requester 140099198342912 reached EOF
+Requester 140099198342912 has chosen a file
+Requester 140099198342912 read data and is beginning process of placing it in buffer
+Requester 140099164772096 read data and is beginning process of placing it in buffer
+Requester 140099173164800 has chosen a file
+Requester 140099173164800 read data and is beginning process of placing it in buffer
+Requester 140099181557504 read data and is beginning process of placing it in buffer
+Requester 140099147986688 read data and is beginning process of placing it in buffer
+Requester 140099139593984 read data and is beginning process of placing it in buffer
+Requester 140099156379392 read data and is beginning process of placing it in buffer
+Requester 140099189950208 read data and is beginning process of placing it in buffer
+Requester 140099198342912 read data and is beginning process of placing it in buffer
+Requester 140099164772096 read data and is beginning process of placing it in buffer
+Requester 140099173164800 read data and is beginning process of placing it in buffer
+Requester 140099181557504 read data and is beginning process of placing it in buffer
+Requester 140099147986688 read data and is beginning process of placing it in buffer
+Requester 140099139593984 read data and is beginning process of placing it in buffer
+Requester 140099156379392 read data and is beginning process of placing it in buffer
+Requester 140099189950208 read data and is beginning process of placing it in buffer
+Requester 140099198342912 read data and is beginning process of placing it in buffer
+Requester 140099173164800 read data and is beginning process of placing it in buffer
+Requester 140099173164800 read data and is beginning process of placing it in buffer
+Requester 140099181557504 read data and is beginning process of placing it in buffer
+Requester 140099147986688 reached EOF
+Requester 140099147986688 has chosen a file
+Requester 140099147986688 read data and is beginning process of placing it in buffer
+Requester 140099139593984 read data and is beginning process of placing it in buffer
+Requester 140099164772096 read data and is beginning process of placing it in buffer
+Requester 140099164772096 read data and is beginning process of placing it in buffer
+Requester 140099164772096 read data and is beginning process of placing it in buffer
+Requester 140099164772096 read data and is beginning process of placing it in buffer
+Requester 140099164772096 read data and is beginning process of placing it in buffer
+Requester 140099156379392 read data and is beginning process of placing it in buffer
+Requester 140099156379392 reached EOF
+Requester 140099156379392 has chosen a file
+Requester 140099156379392 has chosen a file
+Requester 140099156379392 read data and is beginning process of placing it in buffer
+Requester 140099139593984 read data and is beginning process of placing it in buffer
+Requester 140099164772096 has chosen a file
+Requester 140099164772096 has chosen a file
+Requester 140099164772096 read data and is beginning process of placing it in buffer
+Requester 140099156379392 read data and is beginning process of placing it in buffer
+Requester 140099189950208 read data and is beginning process of placing it in buffer
+Requester 140099147986688 reached EOF
+Thread 140099147986688 exiting
+Thread 140099173164800 exiting
+Thread 140099198342912 exiting
+Thread 140099181557504 exiting
+Thread 140099164772096 exiting
+Thread 140099139593984 exiting
+Thread 140099156379392 exiting
+Thread 140099189950208 exiting
+Requester 140606289336064 thread starting
+Requester 140606289336064 has chosen a file
+Requester 140606289336064 read data and is beginning process of placing it in buffer
+Requester 140606289336064 read data and is beginning process of placing it in buffer
+Requester 140606289336064 read data and is beginning process of placing it in buffer
+Requester 140606289336064 read data and is beginning process of placing it in buffer
+Requester 140606289336064 read data and is beginning process of placing it in buffer
+Requester 140606289336064 read data and is beginning process of placing it in buffer
+Requester 140606289336064 read data and is beginning process of placing it in buffer
+Requester 140606289336064 read data and is beginning process of placing it in buffer
+Requester 140606289336064 read data and is beginning process of placing it in buffer
+Requester 140606289336064 read data and is beginning process of placing it in buffer
+Requester 140606289336064 read data and is beginning process of placing it in buffer
+Requester 140606289336064 read data and is beginning process of placing it in buffer
+Requester 140606289336064 read data and is beginning process of placing it in buffer
+Requester 140606289336064 read data and is beginning process of placing it in buffer
+Requester 140606289336064 read data and is beginning process of placing it in buffer
+Requester 140606289336064 read data and is beginning process of placing it in buffer
+Requester 140606289336064 read data and is beginning process of placing it in buffer
+Requester 140606289336064 read data and is beginning process of placing it in buffer
+Requester 140606289336064 read data and is beginning process of placing it in buffer
+Requester 140606289336064 read data and is beginning process of placing it in buffer
+Requester 140606289336064 read data and is beginning process of placing it in buffer
+Requester 140606280943360 thread starting
+Requester 140606280943360 has chosen a file
+Requester 140606280943360 read data and is beginning process of placing it in buffer
+Requester 140606272550656 thread starting
+Requester 140606272550656 has chosen a file
+Requester 140606272550656 read data and is beginning process of placing it in buffer
+Requester 140606264157952 thread starting
+Requester 140606264157952 has chosen a file
+Requester 140606264157952 read data and is beginning process of placing it in buffer
+Requester 140606255765248 thread starting
+Requester 140606255765248 has chosen a file
+Requester 140606255765248 read data and is beginning process of placing it in buffer
+Requester 140606247372544 thread starting
+Requester 140606247372544 has chosen a file
+Requester 140606247372544 read data and is beginning process of placing it in buffer
+Requester 140606238979840 thread starting
+Requester 140606238979840 has chosen a file
+Requester 140606238979840 read data and is beginning process of placing it in buffer
+Requester 140606289336064 read data and is beginning process of placing it in buffer
+Requester 140606289336064 reached EOF
+Requester 140606289336064 has chosen a file
+Requester 140606289336064 read data and is beginning process of placing it in buffer
+Requester 140606264157952 read data and is beginning process of placing it in buffer
+Requester 140606264157952 read data and is beginning process of placing it in buffer
+Requester 140606255765248 has chosen a file
+Requester 140606255765248 has chosen a file
+Requester 140606255765248 read data and is beginning process of placing it in buffer
+Requester 140606297728768 thread starting
+Requester 140606297728768 has chosen a file
+Requester 140606297728768 read data and is beginning process of placing it in buffer
+Requester 140606297728768 read data and is beginning process of placing it in buffer
+Requester 140606247372544 read data and is beginning process of placing it in buffer
+Requester 140606247372544 read data and is beginning process of placing it in buffer
+Requester 140606247372544 read data and is beginning process of placing it in buffer
+Requester 140606238979840 read data and is beginning process of placing it in buffer
+Requester 140606238979840 read data and is beginning process of placing it in buffer
+Requester 140606255765248 read data and is beginning process of placing it in buffer
+Requester 140606255765248 read data and is beginning process of placing it in buffer
+Requester 140606255765248 read data and is beginning process of placing it in buffer
+Requester 140606255765248 read data and is beginning process of placing it in buffer
+Requester 140606247372544 read data and is beginning process of placing it in buffer
+Requester 140606247372544 read data and is beginning process of placing it in buffer
+Requester 140606247372544 read data and is beginning process of placing it in buffer
+Requester 140606272550656 read data and is beginning process of placing it in buffer
+Requester 140606255765248 read data and is beginning process of placing it in buffer
+Requester 140606247372544 read data and is beginning process of placing it in buffer
+Requester 140606238979840 read data and is beginning process of placing it in buffer
+Requester 140606264157952 read data and is beginning process of placing it in buffer
+Requester 140606264157952 read data and is beginning process of placing it in buffer
+Requester 140606264157952 read data and is beginning process of placing it in buffer
+Requester 140606264157952 read data and is beginning process of placing it in buffer
+Requester 140606264157952 read data and is beginning process of placing it in buffer
+Requester 140606264157952 read data and is beginning process of placing it in buffer
+Requester 140606247372544 read data and is beginning process of placing it in buffer
+Requester 140606247372544 read data and is beginning process of placing it in buffer
+Requester 140606280943360 read data and is beginning process of placing it in buffer
+Requester 140606280943360 read data and is beginning process of placing it in buffer
+Requester 140606280943360 read data and is beginning process of placing it in buffer
+Requester 140606280943360 reached EOF
+Requester 140606280943360 has chosen a file
+Requester 140606280943360 read data and is beginning process of placing it in buffer
+Requester 140606280943360 read data and is beginning process of placing it in buffer
+Requester 140606280943360 read data and is beginning process of placing it in buffer
+Requester 140606264157952 read data and is beginning process of placing it in buffer
+Requester 140606238979840 read data and is beginning process of placing it in buffer
+Requester 140606280943360 read data and is beginning process of placing it in buffer
+Requester 140606264157952 read data and is beginning process of placing it in buffer
+Requester 140606264157952 read data and is beginning process of placing it in buffer
+Requester 140606264157952 read data and is beginning process of placing it in buffer
+Requester 140606289336064 read data and is beginning process of placing it in buffer
+Requester 140606289336064 read data and is beginning process of placing it in buffer
+Requester 140606289336064 reached EOF
+Requester 140606289336064 has chosen a file
+Requester 140606289336064 has chosen a file
+Requester 140606289336064 read data and is beginning process of placing it in buffer
+Requester 140606289336064 read data and is beginning process of placing it in buffer
+Requester 140606289336064 read data and is beginning process of placing it in buffer
+Requester 140606272550656 read data and is beginning process of placing it in buffer
+Requester 140606272550656 read data and is beginning process of placing it in buffer
+Requester 140606238979840 read data and is beginning process of placing it in buffer
+Requester 140606289336064 read data and is beginning process of placing it in buffer
+Requester 140606272550656 read data and is beginning process of placing it in buffer
+Requester 140606247372544 has chosen a file
+Requester 140606247372544 has chosen a file
+Requester 140606247372544 read data and is beginning process of placing it in buffer
+Requester 140606280943360 has chosen a file
+Requester 140606280943360 has chosen a file
+Requester 140606280943360 read data and is beginning process of placing it in buffer
+Requester 140606280943360 reached EOF
+Thread 140606280943360 exiting
+Thread 140606264157952 exiting
+Requester 140606289336064 read data and is beginning process of placing it in buffer
+Thread 140606289336064 exiting
+Requester 140606238979840 reached EOF
+Thread 140606238979840 exiting
+Thread 140606272550656 exiting
+Thread 140606247372544 exiting
+Thread 140606255765248 exiting
+Thread 140606297728768 exiting
+Requester 139884070315776 thread starting
+Requester 139884070315776 has chosen a file
+Requester 139884070315776 read data and is beginning process of placing it in buffer
+Requester 139884070315776 read data and is beginning process of placing it in buffer
+Requester 139884070315776 read data and is beginning process of placing it in buffer
+Requester 139884070315776 read data and is beginning process of placing it in buffer
+Requester 139884070315776 read data and is beginning process of placing it in buffer
+Requester 139884070315776 read data and is beginning process of placing it in buffer
+Requester 139884070315776 read data and is beginning process of placing it in buffer
+Requester 139884070315776 read data and is beginning process of placing it in buffer
+Requester 139884070315776 read data and is beginning process of placing it in buffer
+Requester 139884070315776 read data and is beginning process of placing it in buffer
+Requester 139884070315776 read data and is beginning process of placing it in buffer
+Requester 139884070315776 read data and is beginning process of placing it in buffer
+Requester 139884070315776 read data and is beginning process of placing it in buffer
+Requester 139884070315776 read data and is beginning process of placing it in buffer
+Requester 139884070315776 read data and is beginning process of placing it in buffer
+Requester 139884070315776 read data and is beginning process of placing it in buffer
+Requester 139884070315776 read data and is beginning process of placing it in buffer
+Requester 139884070315776 read data and is beginning process of placing it in buffer
+Requester 139884070315776 read data and is beginning process of placing it in buffer
+Requester 139884070315776 read data and is beginning process of placing it in buffer
+Requester 139884070315776 read data and is beginning process of placing it in buffer
+Requester 139884061923072 thread starting
+Requester 139884061923072 has chosen a file
+Requester 139884061923072 read data and is beginning process of placing it in buffer
+Requester 139884070315776 read data and is beginning process of placing it in buffer
+Requester 139884019959552 thread starting
+Requester 139884019959552 has chosen a file
+Requester 139884028352256 thread starting
+Requester 139884028352256 has chosen a file
+Requester 139884053530368 thread starting
+Requester 139884053530368 has chosen a file
+Requester 139884070315776 read data and is beginning process of placing it in buffer
+Requester 139884036744960 thread starting
+Requester 139884036744960 has chosen a file
+Requester 139883910919936 thread starting
+Requester 139883910919936 has chosen a file
+Requester 139884045137664 thread starting
+Requester 139884045137664 has chosen a file
+Requester 139884070315776 reached EOF
+Requester 139884070315776 has chosen a file
+Requester 139884070315776 has chosen a file
+Requester 139884070315776 read data and is beginning process of placing it in buffer
+Requester 139884061923072 read data and is beginning process of placing it in buffer
+Requester 139884070315776 read data and is beginning process of placing it in buffer
+Requester 139884061923072 read data and is beginning process of placing it in buffer
+Requester 139884036744960 read data and is beginning process of placing it in buffer
+Requester 139884061923072 read data and is beginning process of placing it in buffer
+Requester 139884061923072 read data and is beginning process of placing it in buffer
+Requester 139883910919936 read data and is beginning process of placing it in buffer
+Requester 139884045137664 read data and is beginning process of placing it in buffer
+Requester 139884019959552 read data and is beginning process of placing it in buffer
+Requester 139884028352256 read data and is beginning process of placing it in buffer
+Requester 139884070315776 read data and is beginning process of placing it in buffer
+Requester 139884036744960 read data and is beginning process of placing it in buffer
+Requester 139884053530368 reached EOF
+Requester 139884053530368 has chosen a file
+Requester 139884053530368 read data and is beginning process of placing it in buffer
+Requester 139884053530368 read data and is beginning process of placing it in buffer
+Requester 139884019959552 read data and is beginning process of placing it in buffer
+Requester 139884019959552 read data and is beginning process of placing it in buffer
+Requester 139884019959552 read data and is beginning process of placing it in buffer
+Requester 139884028352256 read data and is beginning process of placing it in buffer
+Requester 139884070315776 read data and is beginning process of placing it in buffer
+Requester 139884061923072 read data and is beginning process of placing it in buffer
+Requester 139884061923072 read data and is beginning process of placing it in buffer
+Requester 139884053530368 read data and is beginning process of placing it in buffer
+Requester 139884019959552 read data and is beginning process of placing it in buffer
+Requester 139884070315776 read data and is beginning process of placing it in buffer
+Requester 139884070315776 read data and is beginning process of placing it in buffer
+Requester 139884061923072 read data and is beginning process of placing it in buffer
+Requester 139884019959552 read data and is beginning process of placing it in buffer
+Requester 139884019959552 read data and is beginning process of placing it in buffer
+Requester 139884019959552 read data and is beginning process of placing it in buffer
+Requester 139884070315776 read data and is beginning process of placing it in buffer
+Requester 139884028352256 read data and is beginning process of placing it in buffer
+Requester 139883910919936 read data and is beginning process of placing it in buffer
+Requester 139883910919936 read data and is beginning process of placing it in buffer
+Requester 139884061923072 read data and is beginning process of placing it in buffer
+Requester 139884019959552 read data and is beginning process of placing it in buffer
+Requester 139884070315776 read data and is beginning process of placing it in buffer
+Requester 139884070315776 read data and is beginning process of placing it in buffer
+Requester 139884070315776 reached EOF
+Requester 139884070315776 has chosen a file
+Requester 139884070315776 read data and is beginning process of placing it in buffer
+Requester 139884028352256 read data and is beginning process of placing it in buffer
+Requester 139884053530368 read data and is beginning process of placing it in buffer
+Requester 139884036744960 has chosen a file
+Requester 139884036744960 has chosen a file
+Requester 139884036744960 read data and is beginning process of placing it in buffer
+Requester 139884061923072 has chosen a file
+Requester 139884061923072 read data and is beginning process of placing it in buffer
+Requester 139884019959552 read data and is beginning process of placing it in buffer
+Requester 139884070315776 read data and is beginning process of placing it in buffer
+Requester 139884028352256 read data and is beginning process of placing it in buffer
+Requester 139884053530368 read data and is beginning process of placing it in buffer
+Requester 139884061923072 read data and is beginning process of placing it in buffer
+Requester 139884061923072 read data and is beginning process of placing it in buffer
+Requester 139884019959552 read data and is beginning process of placing it in buffer
+Requester 139884070315776 read data and is beginning process of placing it in buffer
+Requester 139884028352256 read data and is beginning process of placing it in buffer
+Requester 139884053530368 reached EOF
+Requester 139884053530368 has chosen a file
+Requester 139884053530368 has chosen a file
+Requester 139884053530368 read data and is beginning process of placing it in buffer
+Requester 139884061923072 read data and is beginning process of placing it in buffer
+Requester 139884061923072 read data and is beginning process of placing it in buffer
+Requester 139884061923072 read data and is beginning process of placing it in buffer
+Requester 139884019959552 has chosen a file
+Requester 139884019959552 has chosen a file
+Requester 139884019959552 read data and is beginning process of placing it in buffer
+Requester 139884036744960 has chosen a file
+Requester 139884036744960 has chosen a file
+Requester 139884036744960 read data and is beginning process of placing it in buffer
+Requester 139884070315776 read data and is beginning process of placing it in buffer
+Requester 139884028352256 reached EOF
+Thread 139884028352256 exiting
+Thread 139884053530368 exiting
+Thread 139884061923072 exiting
+Thread 139884019959552 exiting
+Thread 139884036744960 exiting
+Thread 139884070315776 exiting
+Thread 139883910919936 exiting
+Thread 139884045137664 exiting
+Requester 140671767381760 thread starting
+Requester 140671767381760 has chosen a file
+Thread 140671767381760 exiting
+Requester 140671742203648 thread starting
+Thread 140671742203648 exiting
+Requester 140671775774464 thread starting
+Thread 140671775774464 exiting
+Requester 140671750596352 thread starting
+Thread 140671750596352 exiting
+Requester 140671758989056 thread starting
+Thread 140671758989056 exiting
+Requester 140671784167168 thread starting
+Thread 140671784167168 exiting
+Requester 140671731623680 thread starting
+Thread 140671731623680 exiting
+Requester 140671654557440 thread starting
+Thread 140671654557440 exiting

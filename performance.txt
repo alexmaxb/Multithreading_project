@@ -1,0 +1,47 @@
+Number for requester thread = 1
+Number for resolver thread = 1
+Total run time: 7.93 seconds
+Thread 140206685882112 serviced 5 files
+
+Number for requester thread = 1
+Number for resolver thread = 3
+Total run time: .674 seconds
+Thread 140534390187776 serviced 5 files
+
+Number for requester thread = 3
+Number for resolver thread = 1
+Total run time: 4.54 seconds
+Thread 139683944924928 serviced 4 files
+Thread 139683961710336 serviced 4 files
+Thread 139683953317632 serviced 2 files
+
+Number for requester thread = 3
+Number for resolver thread = 3
+Total run time: .514 seconds
+Thread 139844653778688 serviced 2 files
+Thread 139844670564096 serviced 4 files
+Thread 139844662171392 serviced 4 files
+
+Number for requester thread = 5
+Number for resolver thread = 5
+Total run time: 1.768 seconds
+Thread 140212991825664 serviced 5 files
+Thread 140212898363136 serviced 1 files
+Thread 140212983432960 serviced 5 files
+Thread 140213000218368 serviced 3 files
+Thread 140213008611072 serviced 3 files
+
+Number for requester thread = 8
+Number for resolver thread = 5
+Total run time: 1.784 seconds
+Thread 139683567175424 serviced 2 files
+Thread 139683575568128 serviced 2 files
+Thread 139683609138944 serviced 3 files
+Thread 139683617531648 serviced 2 files
+Thread 139683558782720 serviced 2 files
+Thread 139683592353536 serviced 2 files
+Thread 139683583960832 serviced 1 files
+Thread 139683600746240 serviced 5 files
+
+In these scenarios, the test that took the longest time was where there was one thread of each type. This makes sense, since there are no other threads to be working while these threads are blocking on io or waiting for dnslookup to complete. When increasing the amount of requester threads, the time decreases, however the total time is still long since dnslookup takes time to run. When there are 3 of each type of thread, it was the minimum amount of time, since there were more threads to execute dnslookup. With even more threads, the time was slower, however in my tests the times were inconsistent, sometimes being much longer and sometimes much faster. This could be happening due to dnslookup taking a long amount of time, which I observed happening frequently with incorrect hostnames, but could also be affected by the timing of threads. 
+Compared to the graph, these values were fairly consistent. With one thread of each the time was significantly longer, similar to the graph. With the maximum number of threads for each type, the time was low, but higher than the middle of the graph. This was similar to my results, where the 3,3 threads had the least amount of time, and the time increased when more threads were added.  Based on the graph, if you have too many, or too few threads of either type, the total time increases. This is what I saw with my results, where having similar numbers of each type of thread had the lowest total time.
